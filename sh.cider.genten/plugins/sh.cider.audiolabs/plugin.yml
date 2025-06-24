@@ -1,0 +1,11 @@
+ce_prefix: cider-audiolabs
+identifier: sh.cider.audiolabs
+name: Cider Audio Labs
+description: Enhance your audio experience with Cider Audio Labs
+version: 1.0.1
+author: ciderapp
+repo: https://github.com/ciderapp/audiolabs-plugin
+entry:
+  plugin.js:
+    type: main
+marketplaceID: 31

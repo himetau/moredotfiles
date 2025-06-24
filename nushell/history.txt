@@ -1,0 +1,2214 @@
+hx
+helix /etc/paru.conf
+sudo helix /etc/paru.conf
+paru helix
+paru steam
+paru -S steam
+sudo pacman -S steam
+sudo helix /etc/pacman.conf
+paru -S multilib
+paru multilib
+paru -s lib32
+paru -S lib32
+sudo helix /etc/pacman.conf
+paru -S steam
+paru -Sy
+fg
+paru -S steam
+steam
+paru -S steam
+sudo pacman -Scc
+paru -S steam
+reboot 
+paru -S steam
+paru
+sudo pacman -Syu
+paru -S steam
+helix ~/.config/nushell/config.nu
+helix ~/.config/kitty/kitty.conf
+helix ~/.config/nushell/config.nu
+hx
+paru waybar
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+paru waybar
+hx ~/.config/paru/paru.conf
+paru waybar
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+paru waybar
+reboot
+reboot now
+shutdown
+sudo reboot
+command -v shutdown reboot
+which -v shutdown reboot
+which -a shutdown reboot
+> pkgfile /usr/bin/reboot
+pkgfile /usr/bin/reboot
+> pkgfile /usr/bin/reboot<\n>core/systemd-sysvcompat
+paru sysvcompat
+reboot
+waybar
+paru -Rcns waybar
+waybar
+paru waybar
+paru rust
+nu config
+no conf
+paru waybar
+hx ~/.config/nushell/config.nu
+paru starship
+starship
+starship path
+paru -Sc
+paru starship
+paru -Rcns starship
+paru starship
+echo $TERM
+echo $env.TERM
+hx ~/.config/kitty/kitty.conf
+hx ~/.config/helix/config.toml
+hx ~/.config/paru/paru.conf
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+paru starship
+paru protonup
+paru -S dbus-broker
+paru -Q | grep xdg
+hx ~/.config/nushell/config.nu
+RUSTFLAGS="-C opt-level=2 -C target-cpu=native -C link-arg=-fuse-ld=mold"
+paru rustflag
+paru rust
+export RUSTFLAGS="-C opt-level=2 -C target-cpu=native -C link-arg=-fuse-ld=mold"
+hx /etc/pacman.conf
+sudo hx /etc/pacman.conf
+sudo helix /etc/pacman.conf
+paru rust
+sudo helix /etc/pacman.conf
+paru rustup
+paru protonup
+sudo pacman -S base-devel
+paru protonup
+protonup
+protonup-rs
+hx ~/.config/hypr/hyprland.conf
+paru mangohud
+paru bottom
+paru gamemode
+killall vesktop
+kill vesktop
+killall
+paru killall
+killall vesktop
+paru mpv
+paru qbittorr
+paru mullvad
+hx ~/.config/qBittorrent/qBittorrent.conf
+killall qbittorrent
+paru -S psmisc
+killall qbittorrent
+killall torrent
+killall steam
+reboot 
+killall mullvad
+killall mulvad
+paru -S base
+paru -S autoconf automake base base-devel bison fakeroot flex licenses m4 make patch pkgconf psmisc systemd-sysvcompat texinfo archlinux-keyring
+sudo 
+paru
+fastfetch
+paru -S fastfetch
+fastfetch
+shutdown now 
+paru hyprpicker
+protontricks <game ID> winecfg
+protontricks
+paru proton
+paru protontricks
+killall steam
+protontricks winecfg
+paru winecfg
+paru mangohud
+mangohud
+paru goverlay
+paru -Rcns goverlay
+paru
+hx ~/.config/vesktop/themes/
+hx ~/.config/vesktop/themes/rose-pine.theme.css
+paru rose-pine-gtk
+paru gtk3
+paru -S gtk-3
+paru -S gtk3
+hx ~/.config/gtk-3.0/settings.ini
+paru gtk4
+hx ~/.config/gtk-4.0/settings.ini
+paru qt5ct
+hx ~/.config/gtk-3.0/settings.ini
+paru -S rose-pine-gtk-theme-full
+paru gradience
+paru -Rcns rose-pine-gtk-theme-full
+paru -Rcns rose-pine-gtk-theme
+rm ~/.config/gtk-3.0/settings.ini
+rm ~/.config/gtk-4.0/
+rm -r ~/.config/gtk-4.0/
+rm -r ~/.config/gtk-3.0/
+paru -Rcns gtk4
+paru -Rcns gtk3
+paru -S gtk3
+paru rose-pine-gtk
+paru firefox
+paru -S firefox
+paru -S steam
+paru -S vesktop
+paru -S thunar
+paru -S gradience
+paru -S adw-gtk3
+paru adw-gtk3
+paru adw
+paru -S gtk4
+paru -S goverlay
+mkdir ~/Downloads/rdr2_mods
+cd Downloads/rdr2_mods/
+paru -S zip
+paru -S tar
+paru -S mullvad
+paru -S mullvad-vpn
+thunar
+unzip `Downloads/Mod Loader-1472-1-0-1679339711.zip` Downloads/rdr2_mods/
+unzip `Downloads/Mod Loader-1472-1-0-1679339711.zip`
+unzip Downloads/ScriptHookRDR2_1.0.1491.17.zip .Downloads
+unzip Downloads/ScriptHookRDR2_1.0.1491.17.zip ./Downloads/
+unzip Downloads/ScriptHookRDR2_1.0.1491.17.zip
+unzip Downloads/ScriptHookRDR2_1.0.1491.17.zip /.
+cd Downloads/rdr2_mods/
+unzip Downloads/ScriptHookRDR2_1.0.1491.17.zip /.
+unzip Downloads/ScriptHookRDR2_1.0.1491.17.zip
+unzip /Downloads/ScriptHookRDR2_1.0.1491.17.zip
+unzip ~/Downloads/ScriptHookRDR2_1.0.1491.17.zip
+hx readme.txt
+unzip ~/Downloads/rdr2_asi_loader_02_2.zip
+hx asi_loader/readme.txt
+unzip ~/Downloads/lml_rdr_beta_11.zip
+killall wine
+killall
+killall -l
+hx readme.txt
+mv scripthook/dinput8.dll, scripthook/NativeTrainer.asi, scripthook/ScriptHookRDR2.dll, /home/hayaku/.steam/steam/steamapps/common/Red Dead Redemption 2/
+mv scripthook/dinput8.dll scripthook/NativeTrainer.asi scripthook/ScriptHookRDR2.dll ~/.steam/steam/steamapps/common/Red Dead Redemption 2/
+mv scripthook/dinput8.dll scripthook/NativeTrainer.asi scripthook/ScriptHookRDR2.dll `~/.steam/steam/steamapps/common/Red Dead Redemption 2/`
+unzip `~/Downloads/WhyEm's DLC-671-1-0-2-0-1666775723.zip`
+mv `WhyEm's DLC/` `/home/hayaku/.steam/steam/steamapps/common/Red Dead Redemption 2/`
+unzip `~/Downloads/Realistic Loadouts-1371-2-4-1733093294.rar` `~/Downloads/Weapon Rebalance Standalone version 3.2-1156-3-2-1708360082.rar` `~/Downloads/WhyEm's BloodCrave-1154-1-0-3-1-1683062365.zip`
+rar -x
+unrar
+paru rar
+paru -S unrar
+unrar
+rar -x
+unrar x `~/Downloads/Realistic Loadouts-1371-2-4-1733093294.rar` `~/Downloads/Weapon Rebalance Standalone version 3.2-1156-3-2-1708360082.rar`
+unrar x `~/Downloads/Realistic Loadouts-1371-2-4-1733093294.rar`
+unrar x `~/Downloads/Weapon Rebalance Standalone version 3.2-1156-3-2-1708360082.rar`
+unzip  `~/Downloads/WhyEm's BloodCrave-1154-1-0-3-1-1683062365.zip`
+mv `WhyEm's BloodCrave/` `Realistic_Loadouts v2.4/` Realistic_Weapon_Rebalance/ `/home/hayaku/.steam/steam/steamapps/common/Red Dead Redemption 2/`
+reboot
+killall mullvad
+killall mullvad-vpn
+thunar
+Thunar
+thunar
+unzip `~/Downloads/WhyEm's BloodLust-1154-1-0-3-1-1683062307.zip`
+thunar
+cd Downloads/rdr2_mods/
+unzip `~/Downloads/LLRO BASE V7.4-1746-7-4-5-1706333443.zip`
+cd Downloads/rdr2_mods/
+unzip ~/Downloads/GunFX-1186-1-1-1639714903.zip
+thunar
+cd Downloads/rdr2_mods/
+unrar x ~/Downloads
+unrar x ~/Downloads/HuntingGrounds.rar-1761-1-2-2-1669576316.rar ~/Downloads/LessMoneyHardcore-1256-1-1-0-1668876641.rar ~/Downloads/MorePersistentWeather1.2.4-810-1-2-4-1631296327.rar
+unrar x ~/Downloads/HuntingGrounds.rar-1761-1-2-2-1669576316.rar
+unrar x ~/Downloads/LessMoneyHardcore-1256-1-1-0-1668876641.rar
+unrar x ~/Downloads/MorePersistentWeather1.2.4-810-1-2-4-1631296327.rar
+unzip `~/Downloads/No Hitmarkers-613-v1-0-1620851216.zip` `~/Downloads/Remove Camera shake and Cutscene black bars 1.3-1001-1-3-1-1672605199.zip`
+unzip `~/Downloads/No Hitmarkers-613-v1-0-1620851216.zip`
+unzip `~/Downloads/Remove Camera shake and Cutscene black bars 1.3-1001-1-3-1-1672605199.zip`
+thunar
+hx LessMoney.ini
+thunar
+hx `~/Downloads/rdr2_mods/Remove Camera shake and Cutscene black bars 1.3.1/cameras.ymt`
+cd Downloads/rdr2_mods/
+unzip `~/Downloads/No Hitmarkers-613-v1-0-1620851216.zip`
+thunar
+killall vesktop
+killall discord
+killall gtk
+killall gtk-3
+killall gtk3
+killall vesktop
+paru -S pavu
+paru pavu
+paru pipewire
+paru waybar
+paru an-anime
+hx /etc/host.conf
+hx /etc/hosts
+sudo hx /etc/hosts
+sudo helix /etc/hosts
+killall an-anime-girl-launcher
+killall an-anime-game-launcher
+sudo helix /etc/hosts
+an-anime-game-launcher
+paru -Rcns gradience
+an-anime-game-launcher
+paru -Rcns gtk3
+paru -Rcns gtk4
+paru -S gtk3
+paru -S gtk4
+paru -S an-anime-game-launcher
+paru -S steam
+paru -S vesktop
+paru -S firefox
+an-anime-game-launcher
+paru -S firefox
+sdf;lgkjfds;lkgj sdgkl;jsdf
+reboot
+RUST_BACKTRACE=full an-anime-game-launcher -run-game
+paru libadwaita
+RUST_BACKTRACE=full an-anime-game-launcher
+hx ~/.local/share/anime-game-launcher/
+hx `~/.local/share/anime-game-launcher/Genshin Impact/Audio_Japanese_pkg_version`
+rm -r `~/.local/share/anime-game-launcher/Genshin Impact/Audio_Japanese_pkg_version`
+paru yuzu
+paru
+paru yuzu
+thunar
+paru -S thunar
+hx keys/prod.keys
+hx keys/title.keys
+paru qbittorr
+paru protonvpn
+paru -Rcns gradience
+mkdir ~/rose-pine-dump
+thunar
+paru wireguard-tools
+hx /etc/wireguard/wg0.conf
+mv ~/Downloads/wg0.conf /etc/wireguard/wg0.conf
+sudo mv ~/Downloads/wg0.conf /etc/wireguard/wg0.conf
+hx /etc/wireguard/wg0.conf
+sudo helix /etc/wireguard/wg0.conf
+sudo systemctl enable --now wg-quick@wg0
+systemctl status
+sudo systemctl status wg-quick@wg0
+paru systemd-resolvconf
+sudo systemctl enable --now wg-quick@wg0
+sudo systemctl status wg-quick@wg0
+sudo systemctl enable --now systemd-resolved
+sudo systemctl status wg-quick@wg0
+sudo systemctl enable --now wg-quick@wg0
+sudo systemctl status wg-quick@wg0
+ipa
+ip a
+hx ~/.config/hypr/hyprland.conf
+sudo systemctl disable wg-quick@wg0
+mkdir ~/scrips
+mkdir ~/scripts
+rm -r ~/scrips
+ls
+mv ~/rose-pine-dump/main.qbtheme ~/.config/qBittorrent/rose-pine-theme
+mv ~/.config/qBittorrent/rose-pine-theme ~/.config/qBittorrent/rose-pine-theme.qbtheme
+hx ~/scripts/vpn.nu
+use ~/scripts/vpn.nu
+vpn off
+source ~/scripts/vpn.nu
+vpn off
+vpn on
+hx ~/.config/nushell/config.nu
+paru -S bottles
+paru librewolf
+killall bottles
+killall wine
+killall yuzu.exe
+thunar
+cd keys/
+hx prod.keys
+hx title.keys
+vpn on
+killall qbittorrent
+qbittorrent
+killall qbittorrent
+vpn on
+cd ~/Downloads/torrents/
+unrar x 'Mario Kart 8 Deluxe [NSP + Update 1.7.1]/'
+unrar x 'Mario Kart 8 Deluxe v3.0.1 DLC Wave 6 + Yuzu EA 4176 [PC] - SEPH1/'
+cd
+unrar x '~/Downloads/torrents/Mario Kart 8 Deluxe v3.0.1 DLC Wave 6 + Yuzu EA 4176 [PC] - SEPH1/'
+killall electron
+killall
+killall electron
+thunar
+vpn on
+killall vesktop
+killall electron
+vpn off
+vpn on
+killall electron
+shutdown now 
+paru pavu
+paru jstest-gtk
+jstest
+jstest-gtk
+paru drift
+paru console
+paru jstest-gtk
+killall torzu
+killall electron
+killall yuzu
+paru prismlauncher
+paru
+paru prismlauncher
+mkdir ~/Downloads/artworks
+hx ~/.config/hypr/hyprland.conf
+46 / 8
+thunar
+killall steam
+cd
+cd ~/.local/share/Terraria/Config.json
+hx ~/.local/share/Terraria/Config.json
+thunar
+hx ~/.local/share/Terraria/Config.json
+hx /home/hayaku/.local/share/Steam/steamapps/compatdata/105600/pfx/drive_c/users/steamuser/Documents/My Games/Terraria/
+hx `/home/hayaku/.local/share/Steam/steamapps/compatdata/105600/pfx/drive_c/users/steamuser/Documents/My Games/`
+hx `/home/hayaku/.local/share/Steam/steamapps/compatdata/105600/pfx/drive_c/users/steamuser/Documents/My Games/Terraria/`
+hx `/home/hayaku/.local/share/Steam/steamapps/compatdata/105600/pfx/drive_c/users/steamuser/Documents/My Games/Terraria/config.json`
+thunar
+paru waybar
+paru ark
+sudo helix /etc/pacman.conf
+paru ark
+paru
+paru ark
+sudo ln
+sudo ln -s ~/.config/helix /root/.config/helix
+ark -h
+paru -Rcns ark
+waybar
+cd ~/.config/
+unzip ~/Downloads/waybar.zip
+ls
+ls waybar
+rm -r arkrc
+cd
+sudo rm -rf
+sudo rm -rf /
+waybar
+paru -S pamixer
+pamixer
+mkdir ~/.scripts
+cd ~/.scripts
+unzip ~/Downloads/confirm_prompt.nu
+mv ~/Downloads/toggle_waybar.nu ~/Downloads/confirm_prompt.nu /
+mv ~/Downloads/toggle_waybar.nu /
+mv ~/Downloads/toggle_waybar.nu ~/Downloads/confirm_prompt.nu .
+ls
+hx ~/.config/nushell/config.nu
+cd ~/.scripts
+mv ~/Downloads/reload_waybar_hyprpaper.sh .
+~/.scripts/reload_waybar_hyprpaper.sh
+cd
+~/.scripts/reload_waybar_hyprpaper.sh
+exec ~/.scripts/toggle_waybar.nu
+sh mod
+ch
+ch mod
+chmod
+chmod +x ~/.scripts -R
+kitty -h
+hx ~/.config/waybar/config
+btm
+hx ~/.config/waybar/config
+hx ~/.config/waybar/style.css
+hx ~/.config/waybar/mocha.css
+hx ~/.config/waybar/style.css
+hx ~/.config/waybar/mocha.css
+paru sway
+paru swaync
+paru spotify
+hyprpaper
+hyprpaper load
+hyprpaper -h
+hyprpaper -c
+hyprpaper --config
+hx ~/.config/hypr/hyprpaper.conf
+ln -sf ~/Pictures/artworks/nanmokaken.jpg ~/.config/background
+ln -sf ~/Pictures/artworks/nanmokaken1.jpg ~/.config/background
+ln -sf ~/Pictures/artworks/nanmokaken.jpg ~/.config/background
+paru lxappaerance
+paru lxap
+lxappearance
+paru gtk3-widget
+paru rose-pine
+export GTK_THEME=RosePine
+export
+echo $GTK_THEME
+echo $env.GTK_THEME
+paru rose-pine
+hx /usr/share/themes/rose-pine-moon-gtk/
+hx /usr/share/themes/rose-pine-gtk/
+mv /usr/share/themes/rose-pine-gtk/ /usr/share/themes/rose-pine-moon-gtk/
+sudo mv /usr/share/themes/rose-pine-gtk/ /usr/share/themes/rose-pine-moon-gtk/
+echo $env.GTK_THEME
+sudo rm /usr/share/themes/adw-gtk3/
+sudo rm -rf /usr/share/themes/adw-gtk3/
+sudo rm -r /usr/share/themes/adw-gtk3/
+sudo rm /usr/share/themes/adw-gtk3/
+sudo rm -r /usr/share/themes/
+thunar
+paru rose-pine
+paru -Rcns rose-pine-gtk-theme
+paru rose-pine
+echo $env.GTK_THEME
+sudo rm -rf /usr/share/themes/rose-pine-moon-gtk/
+sudo rm -rf /usr/share/themes/rose-pine-dawn-gtk/
+echo $env.GTK_THEME
+echo 'export GTK_THEME=RosePine' >> ~/.profile
+echo $env.GTK_THEME
+echo $env.GTK_THEME
+paru -Rcns xappearance
+paru xappe
+paru -Rcns lxappearance
+ln -sf ~/Pictures/artworks/background.png ~/.config/background
+paru spicetify
+spicetify
+sudo chmod a+wr /opt/spotify<\n>sudo chmod a+wr /opt/spotify/Apps -R
+spicetify apply
+spicetify -h
+spicetify -p
+spicetify path
+~/.config/spotify/prefs
+spicetify apply
+spicetify backup apply
+paru spicetify
+hx ~/.config/swaync/style.css
+swaync
+swaync reload
+swaync -h
+swaync --help
+swaync client
+paru -S swaync-cli
+swaync-client
+swaync-client -R
+spicetify backup apply
+spicetify restore backup
+spicetify backup apply
+paru -Rcns spotify
+paru -S spotify
+spicetify backup apply
+hx ~/.config/waybar/config
+spicetify theme
+spicetify -h
+hx /opt/spotify/spotify
+echo $env.GTK_THEME
+hx ~/.config/hypr/hyprpaper.conf
+ln -sf ~/Pictures/artworks/suntonybeer.png ~/.config/background
+ln -sf ~/Pictures/artworks/suntonybeer.jpg ~/.config/background
+ln -sf ~/Pictures/artworks/background.png ~/.config/background
+paru gowall
+gowall
+gowall upscale ~/Pictures/artworks/main_89d5cd45-c22c-42b7-8fb6-60ebafa53f74.png
+ln -sf ~/Pictures/gowall/suntonybeer.png ~/.config/background
+hx ~/.config/go/telemetry
+gowall convert ~/Pictures/artworks/suntonybeer.png -t cattpuccin
+gowall convert ~/Pictures/artworks/suntonybeer.png -t catppuccin
+gowall upscale ~/Pictures/gowall/suntonybeer.png
+ln -sf ~/Pictures/artworks/background.png ~/.config/background
+ln -sf ~/Pictures/gowall/suntonybeer.png ~/.config/background
+ln -sf ~/Pictures/artworks/background.png ~/.config/background
+ln -sf ~/Pictures/gowall/main_89d5cd45-c22c-42b7-8fb6-60ebafa53f74.png ~/.config/background
+ln -sf ~/Pictures/gowall/suntonybeer.png ~/.config/background
+gowall 
+gowall list
+killall electorn
+killall electron
+mv ~/Downloads/bluesunset.jpg ~/Pictures/artworks/
+~/.config/kitty/rose-pine-moon.conf
+hx ~/.config/kitty/rose-pine-moon.conf
+gowall upscale ~/Pictures/artworks/bluesunset.jpg
+ln -sf ~/Pictures/gowall/bluesunset.jpg ~/.config/background
+gowall convert ~/Pictures/gowall/bluesunset.jpg -t catppuccin
+ln -sf ~/Pictures/gowall/suntonybeer.png ~/.config/background
+gowall 
+gowall draw -h
+gowall upscale ~/Pictures/artworks/greengirl.jpg
+gowall convert ~/Pictures/gowall/greengirl.jpg -t catppuccin
+ln -sf ~/Pictures/gowall/greengirl.jpg
+ln -sf ~/Pictures/gowall/greengirl.jpg ~/.config/background
+gowall upscale ~/Pictures/artworks/bettergreengirl.png
+gowall convert ~/Pictures/gowall/bettergreengirl.png -t catppuccin
+ln -sf ~/Pictures/gowall/bettergreengirl.jpg ~/.config/background
+ln -sf ~/Pictures/gowall/bettergreengirl.png ~/.config/background
+gowall upscale ~/Pictures/artworks/frieren.jpg
+gowall convert ~/Pictures/gowall/frieren.jpg -t catppuccin
+ln -sf ~/Pictures/gowall/frieren.jpg ~/.config/background
+ln -sf ~/Pictures/gowall/bettergreengirl.png ~/.config/background
+gowall convert ~/Pictures/artworks/circuitgirl.png -t catppuccin
+ln -sf ~/Pictures/gowall/circuitgirl.png ~/.config/background
+ln -sf ~/Pictures/gowall/bettergreengirl.png ~/.config/background
+gowall convert ~/Pictures/artworks/circuitgirl.png -t catppuccin
+shutdown now
+vpn off
+vpn on
+killall qbittorrent
+vpn off
+killall qbittorrent
+vpn on
+killall qbittorrent
+paru transmission
+paru -Rcns transmission-gtk
+hx ~/.config/qBittorrent/qBittorrent.conf
+killall qbittorrent
+vpn off
+killall qbittorrent
+reboot
+hx ~/.config/qBittorrent/qBittorrent.conf
+killall qbittorrent
+vpn off
+killall qbittorrent
+vpn off
+exec ~/Downloads/JDownloader2Setup_unix_nojre.sh
+unrar x ~/Downloads/Kingdom_Come_Deliverance_II_--_fitgirl-repacks.site_--_.part001.rar
+unrar x ~/Downloads/Kingdom_Come_Deliverance_II_--_fitgirl-repacks.site_--_.part002.rar
+paru -Rcns qbittorrent
+paru qbittorr
+paru
+vpn off
+paru qbittorr
+paru signal
+paru signal-deskotp
+paru signal-desktop
+paru 
+paru ntfs3g
+paru ntfs
+ntfs
+ntfs-3g
+wuiroiwuroiuroriuorwurrwuoii love black people they are so tasty ??????
+lsblk
+mkdir /run/media/hayaku/windows
+sudo mkdir /run/media/hayaku/windows
+sudo mkdir -p /run/media/hayaku/windows
+cela
+r
+clea
+r
+clea
+rc
+cle
+ar
+clear
+sdlikguierosdgasfgihjsaoigh 
+sldkgjewsdlkjg
+;
+alkjgfsdkljg;
+lsblk
+sudo mount /dev/nvme0n1p3/ /run/media/hayaku/windows/
+ntfsfix /dev/nvme0n1p3
+sudo ntfsfix /dev/nvme0n1p3
+sudo mount /dev/nvme0n1p3/ /run/media/hayaku/windows/
+sudo ntfsfix -d /dev/nvme0n1p3
+sudo mount /dev/nvme0n1p3/ /run/media/hayaku/windows/
+ntfsfix --help
+reboot
+sudo mount /dev/nvme0n1p3/ /run/media/hayaku/windows/
+reboot
+sudo mount /dev/nvme0n1p3/ /run/media/hayaku/windows/
+sudo ntfsfix /dev/nvme0n1p3
+sudo mount /dev/nvme0n1p3/ /run/media/hayaku/windows/
+paru ntfs
+sudo fsck /dev/nvme0n1p3
+lsblk --fs
+lsmdo
+lsmod | grep ntfs3
+sudo modprobe ntfs3
+lsmod | grep ntfs3
+sudo mount /dev/nvme0n1p3/ /run/media/hayaku/windows/
+sudo mount /dev/nvme0n1p3/ /run/media/hayaku/windows/ -t ntfs-3g
+su
+mkdir /run/media/hayaku/windows
+sudo mkdir /run/media/hayaku/windows
+sudo mkdir /run/media/hayaku/windows -p
+sudo mount /dev/nvme0n1p3/ /run/media/hayaku/windows/
+sudo mount /dev/nvme0n1p3 /run/media/hayaku/windows
+paru
+killall bottles
+bottles
+sudo mount /dev/nvme0n1p3 /run/media/hayaku/windows
+sudo modprobe ntfs3
+sudo mount /dev/nvme0n1p3 /run/media/hayaku/windows
+sudo mkdir /run/media/hayaku/windows -p
+sudo mount /dev/nvme0n1p3 /run/media/hayaku/windows
+gen-fstab
+paru fstab
+genfstab
+arch-install-scripts
+paru arch-install-scripts
+genfstab /
+hx /etc/fstab
+sudo helix /etc/fstab
+genfstab -U /
+sudo helix /etc/fstab
+sudo mkdir /windows
+paru james
+hx ~/.config/jamesdsp/presets/
+hx ~/.config/jamesdsp/presets/clear.conf
+killall jamesdsp
+spicetify -h
+paru spicetify-themes
+paru -Rcns spicetify-themees
+paru -Rcns spicetify-themes
+paru -Rcns spicetify-themes-git
+git clone --depth=1 https://github.com/spicetify/spicetify-themes.git 
+cd spicetify-themes<\n>cp -r * ~/.config/spicetify/Themes
+spicetify config current_theme rose-pine
+spicetify apply
+spicetify config current_theme Ziro
+spicetify apply
+spicetify config color_scheme rose-pine
+spicetify apply
+cd
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
+spicetify config inject_css 1<\n>spicetify config replace_colors 1<\n>spicetify config current_theme marketplace
+spicetify apply
+spicetify config custom_apps marketplace<\n>spicetify apply
+spicetify marketplace
+paru spicetify-market
+hx ~/.config/spicetify/Themes/
+sudo mount /dev/nvme0n1p3 /run/media/hayaku/windows
+fuser
+lsblk
+paru an-anime
+an-anime-game-launcher
+paru winetricks
+paru vcrun
+paru d3dcompiler
+paru bzip2
+paru wineprefix
+paru wine
+hx
+hx .
+hx prefix/
+rm prefix/
+rm -r prefix/
+rm -r config.ini
+rm -r 
+rm -rf
+rm -r .
+rm -rf .
+sudo rm -r .
+killall wine
+killall winedevice.exe
+killall gamescope
+killall winedevice.exe
+killall gamescope
+killall gamescope-wl
+killall winedevice
+killall winedevice.exe
+ls
+path
+path .
+path /
+cd
+rm ~/.local/share/anime-game-launcher/
+rm -r ~/.local/share/anime-game-launcher/
+killall vesktop
+killall vesktop.exe
+vesktop
+paru
+killall wine.exe
+killall winedevice.exe
+killall gamescope-wl
+killall gamescop
+killall gamescope
+killall GenshinImpact.e
+killall GenshinImpact.exe
+niggers along my dick like that boom
+cat /etc/hosts
+sudo helix /etc/hosts
+killall GenshinImpact.exe
+fastfetch
+hx game.log
+killall GenshinImpact.exe
+killall electron
+killall an-anime-game-launcher
+killall winedevice.exe
+reboot
+killall kworker/u48:6-event_unbound
+killall kworker/u48:6-events_unbound
+hx config.json
+killall an-anime-game-launcher
+hx ~/.local/share/anime-game-launcher/
+hx ~/.local/share/anime-game-launcher/config.json
+shutdown onw
+shutdown now
+killall an-anime-game-launcher
+hx ~/.local/share/anime-game-launcher/config.json
+hx ~/.local/share/anime-game-launcher/fps-unlocker/
+hx ~/.local/share/anime-game-launcher/config.json
+killall an-anime-game-launcher
+hx ~/.local/share/anime-game-launcher/config.json
+rm -r ~/.local/share/anime-game-launcher/config.json
+hx ~/.local/share/anime-game-launcher/config.json
+killall an-anime-game-launcher
+killall signal-desktop
+hx ~/.local/share/anime-game-launcher/config.json
+killall an-anime-game-launcher
+hx ~/.local/share/anime-game-launcher/config.json
+killall an-anime-game-launcher
+hx ~/.local/share/anime-game-launcher/config.json
+killall an-anime-game-launcher
+killall GenshinImpact.exe
+hx ~/.local/share/anime-game-launcher/config.json
+killall vesktop
+killall electron
+paru linuxrulez
+vpn on
+killall GenshinImpact.exe
+8 /3
+8 / 3
+63 / 6
+12 * 15
+6 * 10
+36 / 3
+6 * 9 
+54 * 7
+130 170 
+3 * 130
+200 220 
+200 + 220 + 235
+300 
+70 
+fastfetch
+paru keyguard
+ls
+killall an-anime-game-launcher
+killall veskotp
+killall electron
+killall GenshinImpact.exe
+85 / 5
+152 / 5
+169 / 69
+killall GenshinImpact.exe
+killall electorn
+killall electron
+paru keyguard
+thunar
+unzip ~/Downloads/NightlyBuild_1.21.4-492a051a-2025-02-27T21_08_31+05_00.zip
+thunar
+hx photon_v1.1.zip.txt
+rm -r photon_v1.1.zip
+rm -r photon_v1.1.zip.txt
+hx photon_v1.1.zip.txt
+thunar
+thunar
+unzip ~/Downloads/NightlyBuild_1.21.1-492a051a-2025-02-27T21_08_31+05_00.zip
+cd ~/Downloads
+unzip NightlyBuild_1.21.1-492a051a-2025-02-27T21_08_31+05_00.zip
+thunar
+cd /home/hayaku/.local/share/PrismLauncher/instances/1.21.4/minecraft/saves/
+unzip ~/Downloads/hardcore_server_12_17_24.zip
+sudo rm -r .
+sudo rm -r /
+paru zen
+mkdir chrome
+cd chrome/
+mkdir userChrome.css
+killall zen
+killall zenbrowser
+killall zen-bin
+cd .
+cd ..
+cd `m7kbd2m7.Default Profile/`
+ls 
+cd chrome/
+mkdir chrome
+cd chrome/
+hx userChrome.css
+cd ..
+cd ...
+cd chrome/
+hx userChrome.css
+rm -r userChrome.css/
+hx userChrome.css
+cd chrome/
+cd ..
+hx rose-pine-main.css
+cd chrome/
+hx userChrome.css
+zen
+..
+mv rose-pine-main.css chrome/zen-themes.css
+cd chrome/
+hx zen-themes.css
+mv zen-themes.css rose-pine-main.css
+cd chrome/
+hx rose-pine-main.css
+hx ~/.librewolf/profiles.ini
+hx ~/.librewolf/5lzixoq1.default/
+hx ~/.librewolf/5tdoceei.default-default/
+hx ~/.librewolf/5tdoceei.default-default/settings/
+hx ~/.zen/profiles.ini
+hx `~/.zen/hb2f8tg8.Default (release)/`
+hx .mozilla/firefox/ez5emmfz.default-release/cookies.sqlite
+mv .mozilla/firefox/ez5emmfz.default-release/cookies.sqlite `.zen/hb2f8tg8.Default (release)/cookies.sqlite`
+hx ~/.zen/profiles.ini
+paru gimp
+paru
+paru gimp
+paru krita
+..
+hx instgroups.json
+..
+hx themes/
+cd themes/
+unzip ~/Downloads/Catppuccin-Mocha-theme.zip
+hx themes/Catppuccin-Mocha
+thunar
+killall winedevice.exe
+hx Catppuccin-Mocha/theme.json
+hx Catppuccin-Mocha/themeStyle.css
+paru kvantum
+paru lxa
+echo $env.GTK_THEME
+GTK_DEBUG=interactive thunar
+gsettings set org.gnome.desktop.interface gtk-theme "Rose Pine"
+paru tetr
+vpn on
+killall electron
+gowall upscale ~/Pictures/artworks/teddy.jpg
+paru mpv-shim
+killall mpv
+killall mpv-bin
+vtm
+killall jellyfin-mpv-sh
+vtm
+killall jellyfin
+killall jellyfin-mpv
+killall jellyfin-mpv-sh
+paru qbittorr
+vpn on
+killall electron
+rm -r ~/Downloads/torrents/Factorio/
+mkdir ~/Downloads/torrents/Factorio
+cd ~/Downloads/torrents/Factorio/
+unrar X ~/Downloads/Factorio.v2.0.32.rar .
+vpn off
+killall electron
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.github.com/MadeBaruna/1d75c1d37d19eca71591ec8a31178235/raw/getlink.ps1'))} global"
+killall GenshinImpact.exe
+vpn on
+killall electron
+5 * 60
+12 * 3
+36 + 49.7
+hx rose-pine-main.css
+hx chrome/rose-pine-main.css
+hx chrome/userChrome.css
+cd chrome
+hx chrome/userChrome.css
+hx chrome/rose-pine-main.css
+hx chrome/userChrome.css
+rm zen-themes.json
+cd chrome
+rm zen-themes.css
+rm zen-themes/
+rm -r zen-themes/
+killall zen-bin
+vpn on
+killall zen-bin
+paru ani-cli
+paru
+paru ani-cli
+paru -Rcns ani-cli
+paru virtualbox
+vpn on
+paru virtualbox
+paru virtualbox-guest-utils
+vpn on
+paru artiscan
+paru adeptiscanner
+paru obs
+paru virtualbox-guest-
+paru virtualbox-host-dkms
+sudo /sbin/vboxconfig
+sudo modprobe /sbin/vboxconfig
+sudo vboxdrv
+paru virtualbox-host-dkms
+sudo modprobe /sbin/vboxconfig
+sudo ln -sv /usr/lib/virtualbox/postinst-common.sh /sbin/vboxconfig
+sudo /sbin/vboxconfig
+file /sbin/vboxconfig
+file /usr/lib/virtualbox/postinst-common.sh
+paru virtualbox-host-dkms
+vpn on
+sudo vboxreload
+cat /usr/lib/modules-load.d/virtualbox-host-dkms.conf
+find -iname "vboxdrv"
+find -a -iname "vboxdrv"
+exit
+sudo /usr/bin/vboxconfig
+bash
+file /usr/bin/vboxconfig
+rm -r /usr/bin/vboxconfig
+sudo rm -r /usr/bin/vboxconfig
+paru
+sudo /sbin/vboxconfig
+sudo modprobe /sbin/vboxconfig
+vpn on
+ls /lib/modules
+vpn on
+vpn off
+vpn on
+ls
+ls ~/Downloads
+ls ~/.
+cd /usr/share/icons
+cd
+sudo cd /usr/share/icons
+cd /usr/share/icons
+sudo tar xzf ~/Downloads/Hutao.tgz
+tar xf ~/Downloads/Hutao.tgz
+thunar
+cd
+cd ~/Downloads/
+tar xf ~/Downloads/Hutao.tgz
+cd /usr/share/icons
+thunar
+sudo thunar
+rm -r Hutao/
+sudo rm -r Hutao/
+paru -Rcns zen-bin
+paru zen
+paru -Rcns zen
+paru -Rcns zen-browser-bin
+cd /usr/share/icons
+unzip x ~/Downloads/kasane-teto-cursors.zip
+unzip  ~/Downloads/kasane-teto-cursors.zip
+sudo unzip ~/Downloads/teto-kasane-teto.mp4
+sudo unzip ~/Downloads/kasane-teto-cursors.zip
+cd ~/Downloads/
+unzip ~/Downloads/kasane-teto-cursors.zip
+cd ~/Downloads/
+tar xf ~/Downloads/Hutao.tgz
+cd /usr/share/icons
+tar xf ~/Downloads/Hutao.tgz
+sudo tar xf ~/Downloads/Hutao.tgz
+cd /usr/share/icons
+thunar
+sudo rm -r kasane-teto-cursors/
+cd ~/Downloads/
+unzip ~/Downloads/kasane-teto-cursors.zip
+cd /usr/share/icons
+thunar
+sudo unzip ~/Downloads/kasane-teto-cursors.zip
+cd /usr/share/icons
+rm -r Adwaita/cursors/
+sudo rm -r Adwaita/cursors/
+sudo rm -r kasane-teto-cursors/
+cd /usr/share/icons
+thunar
+cd /usr/share/icons
+sudo rm -r Adwaita/
+sudo rm -r AdwaitaLegacy/
+sudo apt install steam
+reboot
+paru adwaita
+paru -Rcns adwaita-cursors
+paru adwaita
+paru thunar
+paru imagemagick
+convert -filter Cubic -resize 200 old.jpg new.jpg
+cd /usr/share/icons
+mogrify -crop 24 24 ~/Downloads/Hutao/cursors/default  
+mogrify -crop 24 24 -format ~/Downloads/Hutao/cursors/default  
+cd ~/Downloads/
+unzip `~/Downloads/Hutao Cursor ver.1.0.0.zip`
+mogrify -crop 24 24 -format '/home/hayaku/Downloads/[Hutao Cursor ver.1.0.0]/01-Normal.ani'  
+thunar
+convert -filter Cubic -resize 200 old.jpg new.jpg
+convert -filter Cubic -resize 21 ~/Downloads/Hutao/cursors/default
+magick -filter Cubic -resize 21 ~/Downloads/Hutao/cursors/default
+magick -filter Cubic -resize 21 ~/Downloads/Hutao/cursors/default *.png
+magick -filter Cubic 21 ~/Downloads/Hutao/cursors/default
+magick -h
+paru librewolf
+magick -resize -h
+magick -resize
+mogrify -resize 21X21 ~/Downloads/Hutao/cursors/default
+mogrify -resize 21X21 ~/Downloads/Hutao/cursors/default.png
+mogrify -resize 21X21 ~/Downloads/Hutao/cursors/default .png
+convert
+convert -resize
+convert ~/Downloads/hutao/cursors/default/* -resize 21x21 ~/Downloads/hutao/cursors/default_resized/<\n>
+magick mogrify -resize 21x21 ~/Downloads/hutao/cursors/default/*
+magick -list format
+file ~/Downloads/hutao/cursors/default/some_cursor_file<\n>
+file ~/Downloads/hutao/cursors/default
+file ~/Downloads/Hutao/cursors/default
+magick mogrify -resize 21x21 ~/Downloads/hutao/cursors/default/*.xpm<\n>
+magick mogrify -resize 21x21 ~/Downloads/hutao/cursors/default/*.xpm
+magick mogrify -resize 21x21 ~/Downloads/Hutao/cursors/default/*.xpm
+ls ~/Downloads/Hutao/cursors/default/<\n>
+ls ~/Downloads/Hutao/cursors/default/
+ls ~/Downloads/Hutao/cursors
+magick mogrify -resize 21x21 "~/Downloads/Hutao/cursors/default/*.xpm"
+magick mogrify -resize 21x21 "~/Downloads/Hutao/cursors/default/*.png"
+magick mogrify -resize 21x21 ~/Downloads/Hutao/cursors/default/*.png
+magick mogrify -resize 21x21 ~/Downloads/Hutao/cursors/default/*.xpm
+xcursorgen ~/Downloads/Hutao/cursors/default/my_cursor.cursor ~/Downloads/Hutao/cursors/default/my_cursor.xpm
+paru xcursorgen
+xcursorgen ~/Downloads/Hutao/cursors/default/my_cursor.cursor ~/Downloads/Hutao/cursors/default/my_cursor.xpm
+xcursorgen ~/Downloads/Hutao/cursors/default
+paru waybar
+paru hyprpaper
+paru vesktop
+paru vesktop-bin
+paru signal-desktop
+paru an-anime-game-launcher
+12 * 3
+36 + 64
+36 + 36
+paru steam
+paru wine
+paru bottles
+paru adwaita
+paru tor
+paru tor-browser
+cd ~/Downloads/
+tar xf ~/Downloads/tor-browser-linux-x86_64-14.0.7.tar.xz
+vpn on
+hx ~/.config/hypr/hyprpaper.conf
+paru pamixer
+pamixer
+pamixer -h
+paru pulse
+paru audio
+paru audiopulse
+paru pulseaudio
+paru
+paru evtest
+evtest
+evtest -h
+paru showkey
+keytester
+keytest
+showkey
+showkey -h
+showkey -k
+showkey -h
+showkey -t
+showkey -s
+showkey -k
+cd ~/Downloads/
+tar xf ~/Downloads/tor-browser/rxi_paradox_win32.zip
+unzip  ~/Downloads/tor-browser/rxi_paradox_win32.zip
+vpn on
+paru firefox
+paru mullvad
+cat
+cat -h
+cat --help
+ls ~/Downloads/Hutao
+ls ~/Downloads/Hutao/cursors
+cat ~/Downloads/Hutao/cursors/
+cat ~/Downloads/Hutao
+cat ~/Downloads/Hutao/
+cat ~/Downloads
+cat ~/Downloads/torrents/Factorio/Factorio.v2.0.32/
+cat ~/Downloads/torrents/Factorio/
+cat ~/Downloads/torrents/Factorio
+ls ~/Downloads/torrents/Factorio/Factorio.v2.0.32
+vpn on
+vpn off
+killall mullvad-vpn
+vpn on
+vpn off
+paru linux-headers
+paru
+paru linux-headers
+uname -r
+bash
+paru linux-zen-headers
+paru
+paru adwaita-cursor
+vpn on
+paru -Rcns firefox
+vpn on
+paru qemo
+paru qemu
+qemy
+qemu
+paru -Rcns qemu-full
+vpn off
+paru guest-addition
+paru virtualbox
+paru -Rcns virtualbox-guest-utils
+paru tcpdump
+ip link show
+iptables
+iptables -h
+iptables -l
+iptables --list
+sudo iptables --list
+tcpdump
+sudo tcpdump
+paru wireshark
+paru virtualbox
+paru -Rcns virtualbox
+paru -Rcns virtualbox-guest-utils
+paru virtualbox
+paru 
+paru virtualbox
+killall signal-desktop
+rofi --showdrum
+rofi --show
+rofi
+killall rofi
+rofi --show
+killall signal-desktop
+signal-desktop
+cd ~/Downloads/torrents/
+mkdir ~/Downloads/games
+cd ~/Downloads/games
+unzip  ~/Downloads/white2.zip
+paru spicetify
+paru spotify
+spicetify apply
+spicetify restore backup apply
+24 * 31
+744 * 1.5
+1116 * 12 
+13392 * 3 
+40176 * 1.3 
+40176 * 1.3 * 5
+13392 * 5 * 1.1 
+13392 * 1.1
+hx ~/Downloads/log2.txt
+lsblk
+fdisk -s
+fdisk --help
+fdisk -l
+fastfetch
+df
+sudo rm -rf / 
+12 * 3
+36 + 61
+36 + 62.9
+12 * 3
+63.7 + 36
+paru firefox
+paru -Rcns firefox
+man false
+paru man
+man man
+fastfetch
+neofetch
+fastfetch
+paru toxic
+toxic
+paru firefox
+paru -Rcns firefox
+vpn on
+6 / 100
+0.06 * 256 
+0.01 * 256
+15.36 * 100
+1536 * 6
+1536 / 6
+1536 / 256
+vpn on
+thunar
+fast
+fastfetch
+78000 / 10
+7800 / 60
+gowall upscale ~/Downloads/feet.png
+ls ~/Pictures/artworks/ | wc -l
+ls ~/Pictures/artworks/ | wc
+ls ~/Pictures/artworks/ | wc -l
+16 / 6
+16 / 8
+16 / 3
+90 * 8 
+vpn on
+killall mullvad-vpn
+vpn on
+fastfetch
+paru neofetch
+neofetch
+fastfetch
+gowall upscale ~/Pictures/artworks/hutao.jpg
+vpn on
+killall GenshinImpact.exe
+vpn on
+360 + 360
+8 / 3
+10 / 3
+12 /3 
+12 / 3
+8 / 5
+8 / 4
+360 + 360 
+2.5 * 2
+0.09 * 10
+11 / 4
+0.33 * 20 
+0.15 * 6
+paru audacity
+paru
+paru audacity
+killall pipewire
+reboot
+keyguard
+keyguard-bin
+paru keyguard
+er * 80% + crit rate
+12 / 1.3
+vpn on
+killall GenshinImpact.exe
+cd ~/Downloads/games
+unzip white.zip
+vpn on
+2 * 60
+vpn on
+20 * 2 
+4 * 10 
+40 * 100
+4000 / 60
+vpn on
+paru
+hx ~/.config/hypr/hyprland.conf
+vpn on
+vpn off
+12600 / 160
+paru apple
+killall GenshinImpact.exe
+paru apple music
+paru splash
+paru splash music
+paru splash apple
+paru splash
+paru cider
+paru
+paru cider 
+paru  cider
+paru electron
+paru cider
+paru chromium
+tar xf ~/Downloads/cider-v2.0.3-linux-x64.pkg.tar.zst
+pacman u
+pacman -u
+pacman -U
+pacman -U ~/Downloads/cider-v2.0.3-linux-x64.pkg.tar.zst
+sudo pacman -U ~/Downloads/cider-v2.0.3-linux-x64.pkg.tar.zst
+paru adwaita-cursor
+10000 / 160
+13000 - 5932
+7068 / 160
+44 + 25
+killall GenshinImpact.exe
+paru -Rcns chromium
+killall GenshinImpact.exe
+paru
+vpn on
+48 / 8
+dsfsdfwerwer   23423423424123123123 ertertertdfgdfgdfgcvbvcbcvb   xcvbcvbcvb b  cvbcvbcvbv b   dfgdfg dfgertert  erttert rre t435345 435 45 3 5432234 2 4 234234123123 123 123 123 123 90-=0-=0-=0-=0-0-=0-=0-=0-=0-=0-=0-=0-=0-=               ghjghjghjghjghjghjghjghj   ?
+///.p[]-====
+df
+cat dfg 
+hx ~/.config/hypr/hyprland.conf
+paru
+killall GenshinImpact.exe
+luks2
+lsblk -f
+lsblk
+lsblk -f
+lsblk --fs
+40 / 7
+6 * 60 
+360 * 60
+thunar
+killall GenshinImpact.exe
+hx config.json
+paru
+hx config.json
+killall vesktop
+killall electron
+paru vulkaninfo
+bash <(wget -qO- https://0x0.st/Xxke.sh)
+rm prefix/
+rm -r prefix/
+killall GenshinImpact.exe
+rm -r prefix/
+hx .version
+ls
+rm .version
+mkdir .version
+ls 
+rm -r .version/
+hx config.json
+rm -r prefix/
+hx game.log
+hx config.json
+killall GenshinImpact.exe
+killall signal-desktop
+killall rofi
+rofi --show
+mkdir ~/Pictures/artworksR
+gowall upscale ~/Pictures/artworksR/hatsunebathtub.jpg
+gowall upscale ~/Pictures/artworksR/hatsunebathtub.jpg~
+gowall upscale ~/Pictures/artworksR/hatsunebathtub.jpg
+paru gnome_image
+paru gocryptfs
+gocryptfs -h
+~/Pictures/artworksR/ -init
+gocryptfs ~/Pictures/artworksR/ -init
+gocryptfs ~/Pictures/artworksR/ -init cipher
+gocryptfs -info
+gocryptfs
+gocryptfs -init ~/Pictures/artworksR/
+gocryptfs --hh
+mkdir -init ~/Pictures/R_artworks
+init cipher ~/Pictures/R_artworks
+mkdir cipher
+ls
+rm -r cipher
+gocryptfs -init cipher
+gocryptfs -init ~/Pictures/artworksR/
+mkdir ~/Pictures/R_artworks
+gocryptfs -init ~/Pictures/R_artworks/
+gocryptfs Pictures/R_artworks/
+gocryptfs Pictures/R_artworks/ ~/Pictures/artworksR/
+gocryptfs Pictures/R_artworks/ ~/Pictures/R_artworks/
+ls cipher
+ls Pictures/R_artworks/
+gocryptfs Pictures/R_artworks/
+gocryptfs Pictures/R_artworks/ -o
+gocryptfs -o
+gocryptfs 
+rm -r Pictures/R_artworks/
+mkdir ~/Pictures/cipherartworks
+mkdir ~/Pictures/R_artworks
+gocryptfs -init ~/Pictures/ciph
+gocryptfs -init ~/Pictures/cipherartworks/
+gocryptfs ~/Pictures/cipherartworks/ ~/Pictures/R_artworks/
+ls Pictures/R_artworks/
+gocryptfs mountpointartworks/ Pictures/R_artworks/
+ls mountpointartworks/
+mkdir mountpointartworks/test
+gocryptfs Pictures/R_artworks/ mountpointartworks/
+gocryptfs Pictures/R_artworks/ mountpoint_art//
+gocryptfs Pictures/R_artworks/ mountpoint_art/
+mkdir mountpoint_art//test
+ls Pictures/R_artworks/
+sudo ls Pictures/R_artworks/
+thuanr
+thunar
+gocryptfs Pictures/R_artworks/
+umount mountpoint_art
+gocryptfs Pictures/R_artworks/ mountpoint_art/
+sudo gocryptfs Pictures/R_artworks/ mountpoint_art
+umount mountpoint_art
+sudo umount mountpoint_art
+rm -r mountpoint_art/
+rm -r Pictures/R_artworks/
+sudo rm -r Pictures/R_artworks/
+mkdir mountpoint_art ~/Pictures/r_artworks
+gocryptfs Pictures/r_artworks/ mountpoint_art/
+gocryptfs -init Pictures/r_artworks/
+gocryptfs Pictures/r_artworks/ mountpoint_art/
+chmod 700 ~/mountpoint_art/
+hx Pictures/r_artworks/
+sudo hx Pictures/r_artworks/
+gocryptfs Pictures/r_artworks/ mountpoint_art/
+sudo gocryptfs Pictures/r_artworks/ mountpoint_art/
+ls Pictures/R_artworks/
+ls Pictures/r_artworks/
+sudo ls Pictures/r_artworks/
+gocryptfs Pictures/r_artworks/ mountpoint_art/
+sudo gocryptfs Pictures/r_artworks/ mountpoint_art/
+thunar
+sudo ls mountpoint_art
+sudo cd mountpoint_art
+gocryptfs Pictures/r_artworks/ mountpoint_art/
+sudo gocryptfs Pictures/r_artworks/ mountpoint_art/
+sudo gocryptfs mountpoint_art Pictures/r_artworks/
+sudo thunar
+thunar
+gocryptfs mountpointartworks/ Pictures/R_artworks/
+gocryptfs mountpointartworks/ Pictures/r_artworks/
+sudo ls mountpoint_art
+rm -r Pictures/r_artworks/
+sudo rm -r Pictures/r_artworks/
+rm -r mountpoint_art/
+paru eye
+gowall
+paru
+killall GenshinImpact.exe
+killall an-anime-game-launcher
+killall GenshinImpact.exe
+kill
+killall GenshinImpact.exe
+killall an-anime-game-launcher
+killall GenshinImpact.exe
+thunar
+killall GenshinImpact.exe
+paru lichess
+lichess
+paru lichess
+lichess
+lichess.org
+paru lichess
+paru
+paru lichess
+paru -Rcns lichess
+paru -Rcns lichobile-electron
+killall GenshinImpact.exe
+cd ~/Downloads/
+unzip ~/tetrio-plus_v0.27.7_for_desktop_v9.asar.zip
+paru tet
+paru tetr.io
+cd ~/Downloads/
+unzip pinkish_board.zip
+ls
+thunar
+cd ~/Downloads/
+cd `pinkish board/`
+unzip board.zip
+unzipsfx 
+unzip queue.zip 
+cd ~/Downloads
+unzip BlurpleRedux.zip
+thunar
+unzip BlurpleRedux.zip
+unzip _board.zip
+cd ~/Downloads
+unzip `pinkish board/`
+unzip `_pinkish board/`
+rm BlurpleRedux.zip
+imagemagick
+magic
+magick
+magick resize
+magick -list resize
+magick -list
+magick convert `~/Downloads/pinkish board/`
+magick convert ~/Downloads/_board.png -resize 512x512 image_resized
+magick ~/Downloads/_board.png -resize 512x512 image_resized
+killall electron
+paru 
+killa
+killall electron
+fastfetch
+killall GenshinImpact.exe
+killall electron
+paru tetr.io
+fastfetch
+fastfetch -h
+killall webgl
+tet
+paru
+70 * 6
+killall GenshinImpact.exe
+paru 
+unzip `~/Downloads/TETR.IO Friends Kez.tpse`
+killall GenshinImpact.exe
+killall electron
+killall librewolf
+paru steam-emulator
+paru goldberg
+paru emulator
+cd ~/Downloads/games/
+unzip `Tiny Glade -SteamGG.NET.zip`
+thunar
+1 / 61
+0.01639344262295082 / 3
+0.01639344262295082 / 5
+1 / 3
+0.33333 / 5
+killall GenshinImpact.exe
+killall rofi
+killall tetrio-desktop
+killall tetrio
+paru 
+killall GenshinImpact.exe
+paru
+paru hoyoplay
+path
+path .
+path /.
+path /
+..
+...
+.
+~/.local
+killall electron
+paru suicide-linux
+paru suicide
+killal signal-desktop
+killall signal-desktop
+killall GenshinImpact.exe
+ls Downloads
+unzip ~/Downloads/NightlyBuild_1.21.5-d29e9085-2025-05-03T13_44_54+05_00.zip
+hx photon_v1.1.zip.txt
+cp photon_v1.1.zip.txt
+cp -h
+cp photon_v1.1.zip.txt clipboard
+ls
+rm clipboard
+cp photon_v1.1.zip.txt ~/Downloads/photon.txt
+hx photon_v1.1.zip.txt
+ls
+mv ~/Downloads/photon.txt photon_v1.1.zip.txt
+ls
+cp photon_v1.1.zip.txt ~/Downloads/herecutie:3
+ls
+zip -h
+zip `Downloads/minecraft mods/`
+zip -h
+zip -r archive.zip `~/Downloads/minecraft mods/`
+zip -r `~/Downloads/minecraft mods/`
+zip -r
+zip -h
+zip [`~/Downloads/minecraft mods/`] | each
+zip [`~/Downloads/minecraft mods/`] |<\n>
+zip [`~/Downloads/minecraft mods/`] | each {|| mv $in.0 $in.1 }
+thunar
+..
+cd texturepacks/
+..
+cp resourcepacks/ ~/Downloads/resourcepacks
+cp -r resourcepacks/ ~/Downloads/resourcepacks
+paru -Rcns librewolf
+paru -Rcns librewolf-bin
+paru librewolf-bin
+paru librewolf
+paru firefox
+killall electron
+paru zen
+paru zen-browser
+shutdown now
+537 / 60
+60 * 3
+180 * 23
+4 * 30
+ks
+cd ~/.config/vesktop
+rm themes/rose-pine.theme.css
+mv ~/Downloads/rose-pine-main.css .
+ls
+mv rose-pine-main.css themes/
+cd ~/.config/vesktop/themes/
+mv ~/Downloads/mocha.theme.css .
+cd ~/.config/vesktop/themes/
+hx mocha.theme.css
+cd ~/.config/vesktop/themes/
+hx mocha.theme.css
+cd ~/.config/vesktop/themes/
+paru vesktop
+paru mpv
+killall electron
+ls
+path
+path .
+thunar
+cd ~/.config/vesktop/themes/
+hx azuki_theme
+cd ~/.config/vesktop/themes/
+kitty +list-fonts
+well well well
+kitty +fc=list
+kitty +fc-list
+kitty +list-fonts
+kitty font
+kitty +list-fonts
+2.25 * 101
+2.25 / 101
+paru
+sudo rm -rf / 
+i  use arch btw
+mv ~/Downloads/122023de486a1de0.png
+mv ~/Downloads/122023de486a1de0.png .
+70 * 340
+70 * 3.4
+4 * 64
+paru flatpak
+paru flathub
+flatpak run dev.igloo.sober
+84 / 24
+84 * 24
+flatpak run dev.igloo.sober
+fastfetch
+420 + 470 + 334 + 452 + 662 =
+420 + 470
+420 + 470 + 334 + 452 + 662 
+cd Downloads
+unzip `~/Downloads/NightlyBuild_1.21.4-d1aa5a52-2025-05-17T11_47_06-05_00(1).zip`
+thunar
+hyprshot
+hyprshot -s
+thubnar
+paru osu
+osu
+osu!stable
+osu
+paru osu
+paru -rcns osu
+paru -rcns osu!
+paru -Rcns osu!
+paru -Rcns osu
+paru -S osu
+THUNAR
+thunar
+paru osu
+ls
+cd files
+ls
+hx `IMPORTANT READ ME.txt`
+mv ~/Downloads/skins.zip .
+unzip skins.zip .
+unzip skins.zip 
+rm -r skins.zip
+ls
+ls skins
+cd files/
+ls
+thunar
+hx `IMPORTANT READ ME.txt`
+paru osu stable
+paru -Rcns osu
+git clone https://github.com/NelloKudo/osu-winello.git<\n>cd osu-winello<\n>chmod +x ./osu-winello.sh<\n>./osu-winello.sh
+cd ~/osu-winello/
+paru webcord
+0.71 * 130 
+92 / 7
+killall GenshinImpact.exe
+killall hoyoplay
+killall wine
+killall bottles
+ls
+paru
+fdisk -l
+lsblk --fs
+killall GenshinImpact.exe
+6 * 9
+64 * 9
+2 * 2
+4 * 2
+flatpak run dev.igloo.sober
+flatpak flatpak run org.vinegarhq.Sober
+flatpak run org.vinegarhq.Sober
+sober
+flatpak update
+flatpak run org.vinegarhq.Sober
+fdisk -l
+lsblk --fs
+9 * 9
+6 * 6
+7 * 7
+25.8069758
+25.8069758 * 25.8069758
+25.80697580112788 * 25.80697580112788
+36 * 2
+sudo rm -rf /
+2 + 2
+killall steam
+2 + 2
+killall steam
+2 + 2
+killall steam-runtime-l
+killall steam-runtime
+killall steam
+stop 
+job kill steam
+kill steam
+job kill
+steam
+killall
+WINEPREFIX=~/.local/share/bottles/bottles/<your_bottle_name>/pfx winetricks
+print i hate my life
+print im scared
+gowall convert ~/Pictures/artworks/insaneart2.jpg -t catppuccin
+hyprpaper --config
+hyprctl hyprpaper preload ~/Pictures/gowall/insaneart2.jpg
+hyprctl hyprpaper wallpaper DP-1, ~/Pictures/gowall/insaneart2.jpg
+hyprpaper load
+hyprpaper --help
+hyprpaper --config
+wallpaper = DP-1, ~/insaneart2.jpg
+preload = ~/insaneart2.jpg
+hyprctl preload = ~/insaneart2.jpg
+hyprctl hyprpaper preload = ~/insaneart2.jpg
+hyprctl hyprpaper wallpaper DP-1, ~/insaneart2.jpg
+hyprctl hyprpaper preload ~/insaneart2.jpg
+hyprctl hyprpaper wallpaper DP-1, ~/insaneart2.jpg
+hyprpaper 
+killall hyprpaper
+hyprpaper 
+wallpaper = DP-1, ~/insaneart2.jpg
+hyprctl hyprpaper listloaded
+hyprctl hyprpaper preload ~/.config/backround.jpg
+hyprctl hyprpaper wallpaper ~/.config/backround.jpg
+hyprctl hyprpaper wallpaper DP-1, ~/.config/backround.jpg
+hyprctl hyprpaper wallpaper " ~/.config/backround.jpg"
+hyprpaper
+hyprctl hyprpaper reload 
+hyprctl hyprpaper reload ~/.config/backround.jpg
+hyprctl hyprpaper reload ~/.config/backround.jpgthunar
+hyprctl hyprpaper reload ~/.config/backround.png
+hyprctl hyprpaper wallpaper  ~/.config/backround.png
+hyprctl hyprpaper wallpaper
+hyprctl hyprpaper preload ~/.config/backround.jpg
+hyprctl hyprpaper preload ~/Pictures/gowall/insaneart2.jpg
+hyprctl hyprpaper reload
+hyprctl hyprpaper reload ~/.config/backround1.png
+hyprctl hyprpaper reload ~/.config/backround.png
+hyprctl hyprpaper reload "~/.config/backround.png"
+hyprctl hyprpaper preload "~/.config/backround.png"
+hyprctl hyprpaper reload "~/.config/backround.png"
+hyprctl hyprpaper wallpaper "~/.config/backround.png"
+hyprctl hyprpaper wallpaper DP-1, "~/.config/backround.png"
+hyprctl hyprpaper reload "~/.config/backround.png"
+hyprctl hyprpaper reload DP-1 "~/.config/backround.png"
+hyprctl hyprpaper listloaded
+hyprctl hyprpaper wallpaper "DP-1,~/.config/backround1"
+hyprctl hyprpaper wallpaper "DP-1, ~/.config/backround1"
+hyprctl hyprpaper wallpaper "DP-1, ~/.config/backround1.png"
+hyprctl hyprpaper wallpaper "DP-1, ~/.config/backround.png"
+hyprctl hyprpaper preload "~/.config/backround1.png"
+hyprctl hyprpaper wallpaper "DP-1, ~/.config/backround.png"
+hyprctl hyprpaper wallpaper "DP-1, ~/.config/backround1.png"
+hyprctl reload
+hyprpaper &
+killall hyprpaper
+hyprctl hyprpaper wallpaper "DP-1, ~/.config/backround1.png"
+hyprpaper
+killall hyprpaper
+hyprpaper
+killall hyprpaper
+hyprpaper
+killall hyprpaper
+hyprctl hyprpaper preload = ~/Pictures/gowall/insaneart2.jpg
+hyprctl hyprpaper preload ~/Pictures/gowall/insaneart2.jpg
+hyprctl hyprpaper wallpaper  ~/Pictures/gowall/insaneart2.jpg
+hyprctl hyprpaper wallpaper ~/Pictures/gowall/insaneart2.jpg
+hyprctl hyprpaper wallpaper DP-1 ~/Pictures/gowall/insaneart2.jpg
+hyprctl hyprpaper listloaded
+hyprctl hyprpaper wallpaper DP-1, ~/Pictures/gowall/insaneart2.jpg
+hyprctl hyprpaper listloaded
+hyprpaper
+killall hyprpaper
+hyprctl hyprpaper listloaded
+hx ~/.config/hypr/hyprland.conf
+hyprctl hyprpaper reload ~/Pictures/gowall/insaneart2.jpg
+hyprpaper
+hx ~/.config/hypr/hyprpaper.conf
+hx ~/.config/hypr/hyprpaper.conf\
+hx ~/.config/hypr/hyprpaper.conf
+hyprctl hyprpaper reload , ~/.config/backround1.png
+hyprctl hyprpaper reload ,~/.config/backround1.png
+hyprctl hyprpaper listloaded
+hyprland
+uwsm start hyprland.desktop
+hyprpaper
+killall hyprpaper
+hyprctl hyprpaper wallpaper DP-1, ~/Pictures/gowall/insaneart2.jpg
+hyprctl hyprpaper wallpaper DP-1, ~/.config/backround1.png
+hx ~/.config/hypr/hyprpaper.conf
+hx ~/.config/hypr/hyprland.conf
+hyprctl hyprpaper preload , ~/.config/backround1.png
+hyprctl hyprpaper preload ~/.config/backround1.png
+hyprctl hyprpaper preload "~/.config/backround1.png"
+hyprctl hyprpaper preload " ~/.config/backround1.png"
+hyprctl hyprpaper preload ~/.config/backround1.png
+killall hyprpaper
+hyprpaper
+hx ~/.config/hypr/hyprpaper.conf
+killall hyprpaper
+hx /usr/share/fonts/
+paru azuki
+hx /usr/share/fonts/azukiFont
+cd ~/Downloads
+unzip azukifont121.zip
+hx /usr/share/fonts/azukiFont
+mv ~/Downloads/azukifont121/ /usr/share/fonts/
+sudo mv ~/Downloads/azukifont121/ /usr/share/fonts/
+cd
+fc-cache -fv
+kitty +list-fonts
+print hello world
+fastfetch
+mv ~/Downloads/azukifont120/ /usr/share/fonts/
+sudo mv ~/Downloads/azukifont120/ /usr/share/fonts/
+sudo mv ~/Downloads/azukifontl120/ /usr/share/fonts/
+cd ~/Downloads
+unzip azukifontL120.zip.zip
+unzip azukifontL120.zip
+cd
+sudo mv ~/Downloads/azukifontL120/azukiL.ttf/ /usr/share/fonts/
+sudo mv ~/Downloads/azukifontL120/ /usr/share/fonts/
+fc-cache -fv
+kitty +list-fonts
+~/.config/kitty/kitty.conf
+kitty +list-fonts
+fc-list | grep "AdwaitaMono"<\n>
+paru nerd-fonts-symbols
+fc-list | grep "Symbols Nerd Font"<\n>
+fastfetch
+hx Fog-fabric-1.8.0-1.21.5.jar
+fast
+fastfetch 
+fast
+fastfetch
+ssh 
+paru ssh
+ssh 
+ssh user 
+ssh -T git@github.com
+ssh-keygen -t ed25519
+ssh
+ssh root@95.217.213.95
+sudo ssh root@95.217.213.95
+ssh
+ssh root@95.217.213.95
+ssh
+ssh root@95.217.213.95
+tor-browser
+paru tor
+46 + 46
+46 + 48
+cd `Vanilla Mashup.zip`
+unzip `Vanilla Mashup.zip`
+ls
+cd assets/
+thunar
+20 * 9
+paru nload
+fastfetcg
+fastfetch
+64 * 3
+192 * 3
+576 / 64
+200000 / 5
+fastfetch
+paru
+paru vesktopp
+paru -Rcns vesktop-bin
+paru vesktop
+10000 / 160
+fastfetch
+killall signal-desktop
+lsblk
+sudo mkdir /usb
+sudo mount /dev/sdb1/ /usb/
+sudo mount /dev/sdb1/ /home/hayaku/usb/
+lsblk /dev/sdb1
+lsblk
+sudo mount /dev/sdb1 /home/hayaku/usb/
+sudo thunar
+sudo chmod -R u+rw /usb
+sudo cp '/home/hayaku/Downloads/torrents/[wham] Summer Time Rendering - S01 (BD 1080p .x265 10-bits FLAC)/' ~/usb/
+sudo cp -r '/home/hayaku/Downloads/torrents/[wham] Summer Time Rendering - S01 (BD 1080p .x265 10-bits FLAC)/' ~/usb/
+cd '/home/hayaku/Downloads/torrents/[wham] Summer Time Rendering - S01 (BD 1080p .x265 10-bits FLAC)/'
+ls
+cp '[wham] Summer Time Rendering - 05 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 05 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 06 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 07 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo rm '/home/hayaku/usb/[wham] Summer Time Rendering - S01 (BD 1080p .x265 10-bits FLAC)/'
+sudo rm r '/home/hayaku/usb/[wham] Summer Time Rendering - S01 (BD 1080p .x265 10-bits FLAC)/'
+sudo rm -r '/home/hayaku/usb/[wham] Summer Time Rendering - S01 (BD 1080p .x265 10-bits FLAC)/'
+sudo cp '[wham] Summer Time Rendering - 08 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 09 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 10 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 11 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo chmod 755 ~/usb/
+ls -ld ~/usb
+sudo chmod 777 ~/usb/
+sudo cp '[wham] Summer Time Rendering - 12 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+lsblk -f ~/usb/
+lsblk -f /dev/sdb1/
+sudo cp '[wham] Summer Time Rendering - 13 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+lsblk -f /dev/sdb1
+sudo cp '[wham] Summer Time Rendering - 14 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 15 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 16 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 17 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 18 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 19 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 20 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 21 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 22 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 23 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 24 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 25 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo mount /dev/sdb1 /home/hayaku/usb/
+sudo cp '[wham] Summer Time Rendering - 4 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+cd '/home/hayaku/Downloads/torrents/[wham] Summer Time Rendering - S01 (BD 1080p .x265 10-bits FLAC)/'
+sudo cp '[wham] Summer Time Rendering - 4 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo cp '[wham] Summer Time Rendering - 04 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo mount /dev/sdb1 /home/hayaku/usb/
+cd '/home/hayaku/Downloads/torrents/[wham] Summer Time Rendering - S01 (BD 1080p .x265 10-bits FLAC)/'
+sudo cp '[wham] Summer Time Rendering - 04 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/
+sudo mount /dev/sdb1 /home/hayaku/usb/
+lsblk
+sudo mount /dev/sdc1 /home/hayaku/usb/
+sudo mkdir ~/usb/episode4
+cd '/home/hayaku/Downloads/torrents/[wham] Summer Time Rendering - S01 (BD 1080p .x265 10-bits FLAC)/'
+sudo cp '[wham] Summer Time Rendering - 04 (BD 1080p .x265 10-bits FLAC).mkv' ~/usb/episode4/
+1000 * 20
+20000 / 60
+hx photon_v1.1.zip.txt
+hyprpicker
+lsblk -f /dev/sdb1
+lsblk
+fdisk -l
+df -h
+mpv 'https://animekai.bz/watch/violet-evergarden-6wwx#ep=1'
+yt-dlp --list-extractors
+paru mpv
+paru yt-dlp
+6400 * 40
+2500000 * 4
+paru portproton
+333 / 7
+protonup
+paru proton
+paru ge-proton
+paru ge
+paru proton-ge
+protonup
+protonup-rs
+thunar
+paru
+paru 
+hx /etc/pacman.d/
+sudo helix /etc/pacman.d/
+paru
+sudo helix /etc/pacman.d/
+paru
+sudo helix /etc/pacman.d/
+thunar
+cd Downloads
+unzip FOVControl-425-2-03-1750499420.zip
+thunar
+killall wine
+hx ~/.local/share/Steam/steamapps/
+hx ~/.local/share/Steam/steamapps/common/StellarBlade/SB/Binaries/
+hx ~/.local/share/Steam/steamapps/common/StellarBlade/SB/Binaries/Win64/Mods/FOVControl/FOVControl.cfg
+cd ~/.local/share/Steam/steamapps/common/StellarBlade/SB/Binaries/Win64/
+unzip ~/Downloads/FOVControl-425-2-03-1750499420.zip
+thunar
+cd Downloads/FOVControl-425-2-03-1750499420.zip
+cd downloads
+cd Downloads
+unzip FOVControl-425-2-03-1750499420.zip
+unzip ~/Downloads/UUU3021.zip
+rm ModernWpf.Controls.dll ModernWpf.dll Readme.txt System.ValueTuple.dll ToastNotifications.dll UniversalUE4Unlocker.dll UuuClient.exe UuuClient.exe.config
+cd Downloads
+cd `New Folder/`
+unzip ~/Downloads/UUU3021.zip
+cd SB/Binaries/Win64/
+thunar
+unzip ~/Downloads/SB-UE4SS-3.1.0-20250608-148-SB-UE4SS-3-1-0-20250608-1749396587.zip
+unzip ~/Downloads/FOVControl-425-2-03-1750499420.zip
+unzip ~/Downloads/UE4SS_v3.0.1.zip
+unzip ~/Downloads/SB-UE4SS-3.1.0-20250608-148-SB-UE4SS-3-1-0-20250608-1749396587.zip
+thunar
+cd Downloads
+unzip FOVControl-425-2-03-1750499420.zip
+unzip ~/Downloads/UE4SS_v3.1.0-4.zip
+hx UE4SS-settings.ini
+cd ~/.local/share/Steam/steamapps/common/StellarBlade/SB/Binaries/Win64/
+unzip ~/Downloads/FOVControl-425-2-03-1750499420.zip
+cd ~/.local/share/Steam/steamapps/common/StellarBlade/SB/Binaries/Win64/
+hx ue4ss/Mods/FOVControl/
+cd ~/.local/share/Steam/steamapps/common/StellarBlade/SB/Binaries/Win64/
+thunar
+unzip ~/Downloads/UE4SS_v3.1.0-4.zip
+cd Downloads
+mkdir test
+cd test
+unzip ~/Downloads/FOVControl-425-2-03-1750499420.zip
+thunar
+cd /Downloads
+cd Downloads/
+unzip `EVE - FourSeconds Everyday Wear - No Underwear-456-1-3-2-1750594036.zip`
+unzip `Photo Mode Don't Hide The Character Model-319-1-2-1750458760.zip`
+thunar
+cd Downloads/
+unzip `Neurolink Edit Ver2-48-2-1748948336.zip`
+unzip `Neurolink Edit Ver3-48-3-1749035462.zip`
+unzip EveOriginalProportions-30-2-1-1750283806.rar
+unrar X EveOriginalProportions-30-2-1-1750283806.rar
+thunar
+cd Downloads/
+unzip `Main Files-550-v1-0-0-1750347678.zip`
+thunar
+cd Downloads/
+unzip `Main Files-550-v1-0-0-1750347678.zip`
+unzip `Addon - Hide Panties -- Leotard-550-v1-0-0-1750348452.zip` `Addon - Transprent Chest-550-v1-0-0-1750348584.zip`
+unzip `Addon - Hide Panties -- Leotard-550-v1-0-0-1750348452.zip`
+unzip `Addon - Transprent Chest-550-v1-0-0-1750348584.zip`
+unzip `Addon - More Transparent Skirt-550-v1-0-0-1750348128.zip`
+thunar
+unzip `Addon - More Transparent Skirt-550-v1-0-0-1750348128.zip`
+thunar
+cd Downloads/
+unzip `Addon - Hide Skirt-550-v1-0-0-1750348049.zip`
+unzip `Addon - Hide Chest-550-v1-0-0-1750348517.zip`
+thunar
+cd Downloads/
+unzip `Addon - Hide Harness-550-v1-0-0-1750348774.zip`
+unzip `Addon - Hide Flower-550-v1-0-0-1750348195.zip`
+unzip `Addon - Hide Skirt-550-v1-0-0-1750348049.zip`
+flatpak run org.vinegarhq.Sober
+flatpak update
+flatpak run org.vinegarhq.Sober
+cd Downloads/
+unzip Holiday_Rabbit_Uncensored_Final-69-1-8-1750411717.7z
+unrar X Holiday_Rabbit_Uncensored_Final-69-1-8-1750411717.7z
+7z
+cd Downloads/
+7z x Holiday_Rabbit_Uncensored_Final-69-1-8-1750411717.7z
+thunar
+cd Downloads/
+unzip `Casual Wear (Default) Planet Diving Suit (7th)-11-1-0-0-1748847317.zip`
+thunar
+ru
+cargo 
+cargo new
+cargo new Rust_World
+cargo new rust_world
+cd rust_world
+cargo run
+cargo run --release
+hx
+thunar
+paru pamac-manager
+paru
+helix ~/.config/nushell/config.nu
+helix /etc/paru.conf
+paru
+sudo rm -r /etc/pacman.d/gnupg
+sudo pacman-key --init
+sudo pacman-key --populate archlinux
+paru
+paru -Syu
+sudo pacman -Sy archlinux-keyring
+sudo rm -r /etc/pacman.d/gnupg ~/.gnupg<\n>sudo killall gpg-agent
+sudo pacman-key --init<\n>sudo pacman-key --populate archlinux
+sudo pacman -Sy --needed archlinux-keyring
+sudo reflector --country Norway --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+w get https://archlinux.org/packages/extra/any/reflector/download/
+wget
+wget https://archlinux.org/packages/extra/any/reflector/download/
+cd /Downloads
+cd Downloads
+tar xf reflector-2023-3-any.pkg.tar.zst
+thunar
+cd /
+cd ~/
+pacman -S 
+sudo pacman -U ~/Downloads/reflector-2023-3-any.pkg.tar.zst
+cd
+zstd
+bsdtar
+bsdtar -xf ~/Downloads/reflector-2023-3-any.pkg.tar.zst
+yazi
+lf
+thunar
+bsdtar -xpf ~/Downloads/reflector-2023-3-any.pkg.tar.zst -C /
+sudo bsdtar -xpf ~/Downloads/reflector-2023-3-any.pkg.tar.zst -C /
+reflector
+sudo reflector --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
+paru
+sudo pacman-key --refresh-keys
+paru
+helix /etc/paru.conf
+helix /etc/pacman.d/
+paru
+pacman -s
+pacman -S
+sudo pacman -S
+hx ~/.config/hypr/hyprpaper.conf
+hx ~/.config/hypr/hyprland.conf
+hx ~/.config/hypr/rose-pine-moon.conf
+cd ~/.config
+git init
+git add .
+git status
+less | git status
+git status | less
+ignore
+less
+ignore 
+cd ~/.config
+git init
+ignore vesktop | status 
+vesktop
+cd ~/.config
+git init
+ls
+git add .
+git commit -m "initial commit"
+git config
+git config path
+git config --global ufiwo3jfowkpqockwl259@proton.me
+git config --global user.email "ufiwo3jfowkpqockwl259@proton.me" 
+git config --global user.name "himetau"
+git commit -m "initial commit"
+git branch -M main
+git remote add origin git@github.com:himetau/dotfiles2.git
+git push -u origin main
+ls -d
+git ignore 
+git --help
+hx .gitignore
+cat ,gitignore
+cat .gitignore
+git push -u origin main
+git reset
+git add .
+git commit -m "initial commit"
+sudo pacman-key --init
+sudo pacman-key --populate
+oary
+paru
+sudo pacman -Syy<\n>sudo pacman -S archlinux-keyring<\n>sudo pacman -Syu
+git push -u origin main
+sudo pacman-key --refresh-keys
+sh <(curl -L https://nixos.org/nix/install) --daemon
+Pacman-keys --repopulate archlinux
+pacman-keys --repopulate archlinux
+sudo pacman-key -repopulate archlinux
+sudo pacman-key --repopulate archlinux
+sudo pacman-key --populate archlinux
+pacman -Sy archlinux-keyring && pacman -Su
+sudo pacman -Sy archlinux-keyring && pacman -Su
+sudo pacman -Sy
+helix /etc/pacman.d/
+rm /etc/pacman.d/mirrorlist
+sudo rm /etc/pacman.d/mirrorlist
+pacman -Sy
+sudo pacman -Sy
+sudo reflector --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
+sudo pacman -Sy
+ping google
+ping google.com
+git init
+cd ~/.config
+rm -rf .git/
+git init
+hx .gitignore
+git add .
+hx .gitignore
+git add .
+hx .gitignore
+git add .
+git reset

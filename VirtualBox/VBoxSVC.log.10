@@ -1,0 +1,307 @@
+00:00:00.002427 main     VirtualBox XPCOM Server 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
+00:00:00.002429 main     Log opened 2025-03-14T20:36:10.617522000Z
+00:00:00.002430 main     Build Type: release
+00:00:00.002431 main     OS Product: Linux
+00:00:00.002432 main     OS Release: 6.13.6-zen1-1-zen
+00:00:00.002433 main     OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Fri, 07 Mar 2025 20:18:44 +0000
+00:00:00.002448 main     DMI Product Name: System Product Name
+00:00:00.002453 main     DMI Product Version: System Version
+00:00:00.002456 main     Firmware type: UEFI
+00:00:00.002640 main     Secure Boot: Disabled
+00:00:00.002669 main     Host RAM: 15727MB (15.3GB) total, 14100MB (13.7GB) available
+00:00:00.002672 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.002673 main     Process ID: 2925
+00:00:00.002673 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003887 main     IPC socket path: /tmp/.vbox-hayaku-ipc/ipcd
+00:00:00.035436 DCon01   VirtualBox: object creation starts
+00:00:00.035506 DCon01   Home directory: '/home/hayaku/.config/VirtualBox'
+00:00:00.035676 DCon01   Loading settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.037408 DCon01   Failed to retrive disk info: getDiskName(/dev/mapper/root) --> root
+00:00:00.037721 DCon01   HostDnsMonitor: initializing
+00:00:00.037825 DCon01   NAT: resolv.conf: nameserver 100.64.0.55
+00:00:00.037836 DCon01   HostDnsMonitor: updating information
+00:00:00.037847 DCon01   HostDnsMonitor: old information
+00:00:00.037849 DCon01     no server entries
+00:00:00.037851 DCon01     no domain set
+00:00:00.037854 DCon01     no search string entries
+00:00:00.037856 DCon01   HostDnsMonitor: new information
+00:00:00.037858 DCon01     server 1: 100.64.0.55
+00:00:00.037861 DCon01     domain: lan
+00:00:00.037863 DCon01     search string 1: lan
+00:00:00.039359 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.039459 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.040033 DCon01   Platform architecture set to 'x86'
+00:00:00.040669 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Runtime error opening '/home/hayaku/VirtualBox VMs/windows11/windows11.vbox' for reading VERR_FILE_NOT_FOUND (File not found.).
+00:00:00.040674 DCon01   /build/virtualbox/src/VirtualBox-7.1.6/src/VBox/Main/src-server/MachineImpl.cpp[984] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.040811 DCon01   Platform architecture set to 'x86'
+00:00:00.041654 DCon01   Loading settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:00:00.041872 DCon01   Platform architecture set to 'x86'
+00:00:00.042426 DCon01   VirtualBox: object created
+00:00:00.397964 DCon04   Platform architecture set to 'x86'
+00:00:00.398047 DCon04   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Runtime error opening '/home/hayaku/VirtualBox VMs/windows11/windows11.vbox' for reading VERR_FILE_NOT_FOUND (File not found.).
+00:00:00.398051 DCon04   /build/virtualbox/src/VirtualBox-7.1.6/src/VBox/Main/src-server/MachineImpl.cpp[984] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.398183 DCon04   Platform architecture set to 'x86'
+00:00:00.398214 DCon04   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Runtime error opening '/home/hayaku/VirtualBox VMs/windows11/windows11.vbox' for reading VERR_FILE_NOT_FOUND (File not found.).
+00:00:00.398216 DCon04   /build/virtualbox/src/VirtualBox-7.1.6/src/VBox/Main/src-server/MachineImpl.cpp[984] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.398412 DCon04   Platform architecture set to 'x86'
+00:00:00.398447 DCon04   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Runtime error opening '/home/hayaku/VirtualBox VMs/windows11/windows11.vbox' for reading VERR_FILE_NOT_FOUND (File not found.).
+00:00:00.398448 DCon04   /build/virtualbox/src/VirtualBox-7.1.6/src/VBox/Main/src-server/MachineImpl.cpp[984] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.433574 DCon04   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:00.433937 DCon04   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:00.436268 DCon04   Saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.447262 DCon04   Finished saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml"
+00:00:00.448192 DCon05   Saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.454308 DCon05   Finished saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml"
+00:00:00.469362 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.469931 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:00.586011 DCon05   NvramStore: Loading 'TpmEmuTpms/permall' from archive
+00:00:00.586029 DCon05   NvramStore: Loading 'efi/nvram' from archive
+00:00:00.634909 DCon05   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:00.655702 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.656048 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.823065 DCon05   Saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.829773 DCon05   Finished saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml"
+00:00:06.126448 DCon02   Saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:06.136896 DCon02   Finished saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml"
+00:00:06.839818 DCon02   Launched VM: 1744837104 pid: 2968 (0xb98) frontend: GUI/Qt name: windows10
+00:00:06.887479 DCon02   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:06.917290 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:06.917757 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:06.962785 DCon06   Platform architecture set to 'x86'
+00:00:06.980522 DCon03   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:06.986759 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:06.987156 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.291506 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.291950 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.292085 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:07.309722 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.310025 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.311951 DCon03   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:07.326899 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:07.327203 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.327262 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.355727 DCon06   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.369950 DCon06   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.396921 DCon07   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.397337 DCon07   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.397772 DCon07   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:07.420668 DCon07   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:00:07.440408 DCon06   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.440754 DCon06   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.524390 DCon06   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:07.524792 DCon07   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:07.525172 DCon07   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:07.525599 DCon07   HostDnsMonitorProxy::GetDomainName: lan
+00:00:07.525653 DCon07   HostDnsMonitorProxy::GetNameServers:
+00:00:07.525659 DCon07     name server 1: 100.64.0.55
+00:00:07.525732 DCon07   HostDnsMonitorProxy::GetSearchStrings:
+00:00:07.525739 DCon07     search string 1: lan
+00:00:07.538283 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.539168 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.540727 DCon05   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:07.560671 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.579647 DCon05   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:07.595773 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.596134 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.706959 DCon05   Saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.717356 DCon05   Finished saving settings file "/home/hayaku/.config/VirtualBox/VirtualBox.xml"
+00:00:07.727322 DCon03   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:00:07.735119 DCon03   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:00:07.740895 DCon02   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:07.744254 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:07.744575 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:24.056892 DCon04   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:00:24.065338 DCon04   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:03:20.746001 dns-monitor NAT: resolv.conf: nameserver 192.168.1.1
+00:03:20.746019 dns-monitor NAT: resolv.conf: FIXME: ignoring IPv6 zone %eno1
+00:03:20.746021 dns-monitor NAT: resolv.conf: nameserver fe80::d692:5eff:fe01:38b0
+00:03:20.746030 dns-monitor HostDnsMonitor: updating information
+00:03:20.746046 dns-monitor HostDnsMonitor: old information
+00:03:20.746047 dns-monitor   server 1: 100.64.0.55
+00:03:20.746049 dns-monitor   domain: lan
+00:03:20.746050 dns-monitor   search string 1: lan
+00:03:20.746051 dns-monitor HostDnsMonitor: new information
+00:03:20.746052 dns-monitor   server 1: 192.168.1.1
+00:03:20.746053 dns-monitor   server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:03:20.746055 dns-monitor   domain: lan
+00:03:20.746056 dns-monitor   search string 1: lan
+00:03:20.746443 DCon17   HostDnsMonitorProxy::GetDomainName: lan
+00:03:20.746499 DCon17   HostDnsMonitorProxy::GetNameServers:
+00:03:20.746505 DCon17     name server 1: 192.168.1.1
+00:03:20.746508 DCon17     name server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:03:20.746560 DCon17   HostDnsMonitorProxy::GetSearchStrings:
+00:03:20.746562 DCon17     search string 1: lan
+00:03:23.551559 dns-monitor NAT: resolv.conf: nameserver 100.64.0.55
+00:03:23.551583 dns-monitor HostDnsMonitor: updating information
+00:03:23.551587 dns-monitor HostDnsMonitor: old information
+00:03:23.551590 dns-monitor   server 1: 192.168.1.1
+00:03:23.551592 dns-monitor   server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:03:23.551594 dns-monitor   domain: lan
+00:03:23.551595 dns-monitor   search string 1: lan
+00:03:23.551597 dns-monitor HostDnsMonitor: new information
+00:03:23.551598 dns-monitor   server 1: 100.64.0.55
+00:03:23.551600 dns-monitor   domain: lan
+00:03:23.551601 dns-monitor   search string 1: lan
+00:03:23.551938 DCon17   HostDnsMonitorProxy::GetDomainName: lan
+00:03:23.551989 DCon17   HostDnsMonitorProxy::GetNameServers:
+00:03:23.551991 DCon17     name server 1: 100.64.0.55
+00:03:23.552034 DCon17   HostDnsMonitorProxy::GetSearchStrings:
+00:03:23.552036 DCon17     search string 1: lan
+00:03:23.686708 dns-monitor NAT: resolv.conf: nameserver 192.168.1.1
+00:03:23.686743 dns-monitor NAT: resolv.conf: FIXME: ignoring IPv6 zone %eno1
+00:03:23.686749 dns-monitor NAT: resolv.conf: nameserver fe80::d692:5eff:fe01:38b0
+00:03:23.686766 dns-monitor HostDnsMonitor: updating information
+00:03:23.686771 dns-monitor HostDnsMonitor: old information
+00:03:23.686775 dns-monitor   server 1: 100.64.0.55
+00:03:23.686780 dns-monitor   domain: lan
+00:03:23.686784 dns-monitor   search string 1: lan
+00:03:23.686788 dns-monitor HostDnsMonitor: new information
+00:03:23.686969 dns-monitor   server 1: 192.168.1.1
+00:03:23.686981 dns-monitor   server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:03:23.686986 dns-monitor   domain: lan
+00:03:23.686989 dns-monitor   search string 1: lan
+00:03:23.688137 DCon17   HostDnsMonitorProxy::GetDomainName: lan
+00:03:23.688375 DCon17   HostDnsMonitorProxy::GetNameServers:
+00:03:23.688381 DCon17     name server 1: 192.168.1.1
+00:03:23.688387 DCon17     name server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:03:23.688710 DCon17   HostDnsMonitorProxy::GetSearchStrings:
+00:03:23.688729 DCon17     search string 1: lan
+00:04:01.752631 dns-monitor NAT: resolv.conf: nameserver 100.64.0.55
+00:04:01.752654 dns-monitor HostDnsMonitor: updating information
+00:04:01.752675 dns-monitor HostDnsMonitor: old information
+00:04:01.752677 dns-monitor   server 1: 192.168.1.1
+00:04:01.752680 dns-monitor   server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:04:01.752682 dns-monitor   domain: lan
+00:04:01.752684 dns-monitor   search string 1: lan
+00:04:01.752686 dns-monitor HostDnsMonitor: new information
+00:04:01.752687 dns-monitor   server 1: 100.64.0.55
+00:04:01.752689 dns-monitor   domain: lan
+00:04:01.752691 dns-monitor   search string 1: lan
+00:04:01.753028 DCon18   HostDnsMonitorProxy::GetDomainName: lan
+00:04:01.753080 DCon18   HostDnsMonitorProxy::GetNameServers:
+00:04:01.753082 DCon18     name server 1: 100.64.0.55
+00:04:01.753132 DCon18   HostDnsMonitorProxy::GetSearchStrings:
+00:04:01.753136 DCon18     search string 1: lan
+00:11:59.929766 DCon38   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:11:59.956608 DCon38   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:12:00.334873 DCon42   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:12:00.349201 DCon42   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:12:00.729630 DCon42   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:12:00.751533 DCon42   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:12:01.207195 DCon42   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:12:01.228896 DCon42   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:12:01.661783 DCon41   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:12:01.676579 DCon41   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:12:02.328343 DCon42   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:12:02.357007 DCon42   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:12:02.847013 DCon42   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:12:02.864451 DCon42   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:12:05.800470 DCon39   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:12:05.819360 DCon39   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:20:27.352271 DCon72   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:20:27.353088 DCon72   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:20:27.353903 DCon72   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:20:29.278564 DCon72   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:20:29.279692 DCon72   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:20:29.281478 DCon72   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:20:30.711242 DCon72   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:20:30.737143 DCon72   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:20:32.352644 DCon75   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:20:32.365411 DCon75   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:21:04.429997 DCon77   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:21:04.445515 DCon77   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:21:51.937437 DCon81   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:21:51.951156 DCon81   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:22:01.140225 DCon84   Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:22:01.307978 DCon84   Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:22:56.938925 dns-monitor NAT: resolv.conf: nameserver 192.168.1.1
+00:22:56.938956 dns-monitor NAT: resolv.conf: FIXME: ignoring IPv6 zone %eno1
+00:22:56.938964 dns-monitor NAT: resolv.conf: nameserver fe80::d692:5eff:fe01:38b0
+00:22:56.938981 dns-monitor HostDnsMonitor: updating information
+00:22:56.939014 dns-monitor HostDnsMonitor: old information
+00:22:56.939019 dns-monitor   server 1: 100.64.0.55
+00:22:56.939024 dns-monitor   domain: lan
+00:22:56.939027 dns-monitor   search string 1: lan
+00:22:56.939032 dns-monitor HostDnsMonitor: new information
+00:22:56.939036 dns-monitor   server 1: 192.168.1.1
+00:22:56.939040 dns-monitor   server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:22:56.939043 dns-monitor   domain: lan
+00:22:56.939046 dns-monitor   search string 1: lan
+00:22:56.939845 DCon87   HostDnsMonitorProxy::GetDomainName: lan
+00:22:56.939992 DCon87   HostDnsMonitorProxy::GetNameServers:
+00:22:56.940004 DCon87     name server 1: 192.168.1.1
+00:22:56.940009 DCon87     name server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:22:56.940131 DCon87   HostDnsMonitorProxy::GetSearchStrings:
+00:22:56.940134 DCon87     search string 1: lan
+00:23:15.914044 dns-monitor NAT: resolv.conf: nameserver 100.64.0.55
+00:23:15.914091 dns-monitor HostDnsMonitor: updating information
+00:23:15.914103 dns-monitor HostDnsMonitor: old information
+00:23:15.914109 dns-monitor   server 1: 192.168.1.1
+00:23:15.914116 dns-monitor   server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:23:15.914123 dns-monitor   domain: lan
+00:23:15.914127 dns-monitor   search string 1: lan
+00:23:15.914133 dns-monitor HostDnsMonitor: new information
+00:23:15.914137 dns-monitor   server 1: 100.64.0.55
+00:23:15.914143 dns-monitor   domain: lan
+00:23:15.914147 dns-monitor   search string 1: lan
+00:23:15.915124 DCon89   HostDnsMonitorProxy::GetDomainName: lan
+00:23:15.915303 DCon89   HostDnsMonitorProxy::GetNameServers:
+00:23:15.915325 DCon89     name server 1: 100.64.0.55
+00:23:15.915547 DCon89   HostDnsMonitorProxy::GetSearchStrings:
+00:23:15.915552 DCon89     search string 1: lan
+00:35:27.813568 DCon129  Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:35:27.831113 DCon129  Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:37:10.039046 dns-monitor NAT: resolv.conf: nameserver 192.168.1.1
+00:37:10.039076 dns-monitor NAT: resolv.conf: FIXME: ignoring IPv6 zone %eno1
+00:37:10.039083 dns-monitor NAT: resolv.conf: nameserver fe80::d692:5eff:fe01:38b0
+00:37:10.039100 dns-monitor HostDnsMonitor: updating information
+00:37:10.039133 dns-monitor HostDnsMonitor: old information
+00:37:10.039138 dns-monitor   server 1: 100.64.0.55
+00:37:10.039145 dns-monitor   domain: lan
+00:37:10.039150 dns-monitor   search string 1: lan
+00:37:10.039155 dns-monitor HostDnsMonitor: new information
+00:37:10.039160 dns-monitor   server 1: 192.168.1.1
+00:37:10.039165 dns-monitor   server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:37:10.039170 dns-monitor   domain: lan
+00:37:10.039174 dns-monitor   search string 1: lan
+00:37:10.040138 DCon138  HostDnsMonitorProxy::GetDomainName: lan
+00:37:10.040303 DCon138  HostDnsMonitorProxy::GetNameServers:
+00:37:10.040338 DCon138    name server 1: 192.168.1.1
+00:37:10.040358 DCon138    name server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:37:10.040535 DCon138  HostDnsMonitorProxy::GetSearchStrings:
+00:37:10.040543 DCon138    search string 1: lan
+00:37:14.034306 dns-monitor NAT: resolv.conf: nameserver 100.64.0.55
+00:37:14.034324 dns-monitor HostDnsMonitor: updating information
+00:37:14.034327 dns-monitor HostDnsMonitor: old information
+00:37:14.034329 dns-monitor   server 1: 192.168.1.1
+00:37:14.034331 dns-monitor   server 2: fe80::d692:5eff:fe01:38b0%eno1
+00:37:14.034332 dns-monitor   domain: lan
+00:37:14.034333 dns-monitor   search string 1: lan
+00:37:14.034335 dns-monitor HostDnsMonitor: new information
+00:37:14.034336 dns-monitor   server 1: 100.64.0.55
+00:37:14.034337 dns-monitor   domain: lan
+00:37:14.034338 dns-monitor   search string 1: lan
+00:37:14.034660 DCon138  HostDnsMonitorProxy::GetDomainName: lan
+00:37:14.034711 DCon138  HostDnsMonitorProxy::GetNameServers:
+00:37:14.034713 DCon138    name server 1: 100.64.0.55
+00:37:14.034760 DCon138  HostDnsMonitorProxy::GetSearchStrings:
+00:37:14.034762 DCon138    search string 1: lan
+00:38:30.713107 DCon141  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:38:30.713734 DCon141  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:38:30.714633 DCon141  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:38:31.819057 DCon141  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:38:31.819950 DCon141  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:38:31.821450 DCon141  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:38:31.823687 DCon141  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Stopping)}, preserve=false aResultDetail=0
+00:38:31.857008 DCon141  Saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox" with version "1.19-linux"
+00:38:31.868099 DCon141  Finished saving settings file "/home/hayaku/VirtualBox VMs/windows10/windows10.vbox"
+00:38:31.880961 DCon142  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:38:31.881575 DCon142  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:38:31.883660 DCon142  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:38:32.061531 DCon143  ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:38:37.861681 main     VirtualBox: object deletion starts
+00:38:37.861722 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/hayaku/VirtualBox VMs/windows10/windows10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:38:37.862014 main     HostDnsMonitor: shutting down ...
+00:38:37.862109 main     HostDnsMonitor: shut down
+00:38:37.872430 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:38:37.872472 main     VirtualBox: object deleted

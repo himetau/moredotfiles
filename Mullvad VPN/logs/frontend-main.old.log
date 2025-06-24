@@ -1,0 +1,11 @@
+[2025-06-24 01:33:54.528][verbose] Chromium sandbox is enabled
+[2025-06-24 01:33:54.529][info] Running version 2025.6
+[2025-06-24 01:33:54.701][info] Detected locale: en-US
+[2025-06-24 01:33:54.825][info] Connected to the daemon
+[2025-06-24 01:33:54.871][info] Skip autoconnect because GUI setting is disabled
+[2025-06-24 01:33:54.932][error] Failed to request the version info: 2 UNKNOWN: Version cache update was aborted
+[2025-06-24 01:33:55.129][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/hayaku/.config/autostart/mullvad-vpn.desktop'
+[2025-06-24 02:13:37.735][info] before-quit received
+[2025-06-24 02:13:37.735][info] Quit initiated
+[2025-06-24 02:13:37.736][info] Unsubscribed from the daemon events
+[2025-06-24 02:13:37.737][verbose] GRPC Channel connectivity state changed to 4

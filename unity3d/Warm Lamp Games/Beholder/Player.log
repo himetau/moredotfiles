@@ -1,0 +1,1828 @@
+Setting breakpad minidump AppID = 475550
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198944743754 [API loaded no]
+ZE=8
+GLX_ALPHA_SIZE=8
+GLX_DEPTH_SIZE=24
+GLX_STENCIL_SIZE=8
+GLX_SAMPLES_ARB=0
+GLX_SAMPLE_BUFFERS_ARB=0
+GLX_STEREO=0
+GLX_CONFIG_CAVEAT=NONE
+
+Desktop is 4480 x 1440 @ 60 Hz
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+GLX Extensions: GLX_ARB_context_flush_control GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_MESA_copy_sub_buffer GLX_MESA_gl_interop GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_video_sync 
+Setting maxVSyncInterval to 0
+Renderer: AMD Radeon RX 7700 XT (radeonsi, navi32, LLVM 19.1.7, DRM 3.61, 6.14.10-zen1-1-zen)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 25.1.3-arch1.2
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_cla
+mp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_A
+RB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync 
+GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_obj
+ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_E
+XT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_c
+onditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 214415120
+AudioManager: Using PulseAudio: Default Output Device
+Begin MonoManager ReloadAssembly
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/OriginSDK.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/OriginSDK.dll into Unity Child Domain
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/SnailLauncherSDK_Proxy_CS.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/SnailLauncherSDK_Proxy_CS.dll into Unity Child Domain
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/ProBuilderCore-Unity4.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/ProBuilderCore-Unity4.dll into Unity Child Domain
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/ProBuilderMeshOps-Unity4.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/ProBuilderMeshOps-Unity4.dll into Unity Child Domain
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/ProCore.dll (this message is harmless)
+Loading /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/ProCore.dll into Unity Child Domain
+- Completed reload, in  0.098 seconds
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/System.Core.dll (this message is harmless)
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/System.dll (this message is harmless)
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/System.Xml.dll (this message is harmless)
+OnLevelWasLoaded was found on GlobalBlackboard
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on InternalBlackboard
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on Blackboard
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on InternalGlobalBlackboard
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Default vsync count 0
+requesting resize 1261 x 1371
+resizing window to 1261 x 1371
+Desktop is 4480 x 1440 @ 60 Hz
+Using libudev for joystick management
+
+
+Importing game controller configs
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/Mono.Security.dll (this message is harmless)
+Platform assembly: /home/hayaku/.local/share/Steam/steamapps/common/Beholder/Beholder_Data/Managed/System.Configuration.dll (this message is harmless)
+UnloadTime: 1.404000 ms
+PlayerActions: OTHER, Name: None
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+STEAM_API initialized
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Current service controller doesn't implement ILocalizationController
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Current service controller doesn't implement ICloudSavesController
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 7f83777fe6c0 -> priority: 1 
+  Thread -> id: 7f83611fe6c0 -> priority: 1 
+  Thread -> id: 7f83609fd6c0 -> priority: 1 
+Hashes are ok!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.282000 ms
+Current service controller doesn't implement ICloudSavesController
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Current service controller doesn't implement ILocalizationController
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 85 unused Assets to reduce memory usage. Loaded Objects now: 4974.
+Total: 21.864000 ms (FindLiveObjects: 0.184000 ms CreateObjectMapping: 0.140000 ms MarkObjects: 17.316000 ms  DeleteObjects: 4.224000 ms)
+
+requesting resize 2560 x 1440
+resizing window to 2560 x 1440
+Desktop is 4480 x 1440 @ 60 Hz
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.859000 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Game has 589 quests!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (woman_lover) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (niece_archive_grandma) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (last_landlord_wife) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (doctor_charlatan) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (agitation_machine) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (daughter) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (lonely_woman) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (dumb_man) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (chemist) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (bomb) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (patriot) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (spy_phone_npc) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (klara_volner) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (wife) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (oldman_bad_artist) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (fake_general) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (grandma_NKVD) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (Strike_man) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (KPP_worker) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (chief) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (student_revolution) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (engineer_bomb) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (main_character_son) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (fat_man_02) has disabled NavMeshAgent!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (KPP_worker_wife) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (archive_grandma) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (factory_sister) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (poster_r) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (poster_l) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (disgasting) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (Strike_man_hiding) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (angry_husband) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (archive_oldman) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (factory_man) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (niece_archive_grandma_fake) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (sailor) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (npc_npc) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (killer) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (engineer_boss) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (mechanical_agitcar) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (george_danton) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (engineer) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (chemist_daughter) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (hardworking_woman) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Npc (last_landlord) have no action for load
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/first_talk_chief
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 9 worker threads for Enlighten.
+  Thread -> id: 7f83609fd6c0 -> priority: 1 
+  Thread -> id: 7f83777fe6c0 -> priority: 1 
+  Thread -> id: 7f83611fe6c0 -> priority: 1 
+  Thread -> id: 7f8334fff6c0 -> priority: 1 
+  Thread -> id: 7f832f9ff6c0 -> priority: 1 
+  Thread -> id: 7f832f1fe6c0 -> priority: 1 
+  Thread -> id: 7f832e1586c0 -> priority: 1 
+  Thread -> id: 7f832d1566c0 -> priority: 1 
+  Thread -> id: 7f832d9576c0 -> priority: 1 
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 47967.
+Total: 134.109009 ms (FindLiveObjects: 2.525000 ms CreateObjectMapping: 0.850000 ms MarkObjects: 127.345993 ms  DeleteObjects: 3.388000 ms)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node first_talk_chief
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest active_workbook_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest open_workbook_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest q_first_talk_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/find_camera
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/talk_chief
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node talk_camera_02
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest talk_chief_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/install_camera
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node wife_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: bubble icon_smile_fear
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node son_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: bubble icon_smile_calm
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: bubble icon_smile_negative
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node cameras_chief
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/talk_chief_cameras
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node talk_02_chief
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest talk_chief_cameras_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest talk_chief_safe_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest talk_chief_02_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/make_phone_call
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node son_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node wife_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node daughter_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest directives/timeout
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node make_phone_call
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node phone_take_quest
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest make_phone_call_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Can't get image with name right_button
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Can't get image with name left_button
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Can't get image with name right_button
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Can't get image with name left_button
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/apart_2_spy
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node last_landlord_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: bubble icon_smile_calm
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node dealer_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: show_dealer_inventory
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest directives/timeout
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/apart_2_spy_finish
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at QuestView+<AddQuest>c__IteratorE.<>m__B2 (.TimedOutCondition condition) [0x00000] in <filename unknown>:0 
+  at Misc.Modify[TimedOutCondition] (IEnumerable`1 _collection, System.Action`1 _modifier) [0x00000] in <filename unknown>:0 
+  at QuestView+<AddQuest>c__IteratorE.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node phone_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node make_call
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node incoming_calls
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node make_call
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest apart_2_spy_finish_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/find_evidence_jakov
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node phone_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node make_call
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node incoming_calls
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node phone_finish
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest directives/timeout
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest Doctor_rent/doctor_rent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest Sailor_rent/sailor_rent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/rent_apart_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node wife_lastlandlord_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node wife_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node phone_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node make_call
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node incoming_calls
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node phone_information
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Tutorial/phone_finish
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Doctor's_woman/timeout
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at QuestView+<AddQuest>c__IteratorE.<>m__B2 (.TimedOutCondition condition) [0x00000] in <filename unknown>:0 
+  at Misc.Modify[TimedOutCondition] (IEnumerable`1 _collection, System.Action`1 _modifier) [0x00000] in <filename unknown>:0 
+  at QuestView+<AddQuest>c__IteratorE.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node phone_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node make_call
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node incoming_calls
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node make_call
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: state_points +250
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: money +1000
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest phone_finish_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Klaus_info/apart_1_info
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Family_wife/wife_talk_01_stuff
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Family_daughter/daughter_talk_toy
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Family_son/son_talk_book
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest Daughter_Sick/start sickness
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Family_timer/family_timer
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node doctor_charlatan_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: bubble icon_smile_happy
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: bubble icon_smile_positive
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: addinfo last_landlord tobacco
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node son_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: bubble icon_smile_poor
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest son_talk_book_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Family_son/son_books
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Material progress_bar_green doesn't have _Stencil property
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node dealer_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node npc_offence
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: bubble icon_smile_negative
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node archive_grandma_gefault
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dialogue starting!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Running node daughter_default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: bubble icon_smile_cry
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: player
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: npc
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Command: quest daughter_talk_toy_FINISHED1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Activate quest 1hour_Family_daughter/daughter_toy
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Complete!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
